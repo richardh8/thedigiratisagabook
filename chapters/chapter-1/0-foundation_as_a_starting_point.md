@@ -15,6 +15,7 @@ Shortcuts and cookie-cutter approaches might deliver an initial burst of satisfa
 ⸻
 
 **Designing the Foundation**
+
 The process starts by working backwards from the aspired outcome:
 * Capabilities & Expertise – Define how your organization will acquire and grow digital technology skills and knowledge.
 * Innovative User Experiences – Set the bar for creating distinctive value that differentiates you from the competition.
