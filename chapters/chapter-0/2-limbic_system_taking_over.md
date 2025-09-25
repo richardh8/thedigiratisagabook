@@ -5,7 +5,8 @@
 | Jason Bourne – The Bourne Identity |
 | :---: |
 |![](../../images/limbic_system_taking_over.png)|
-|“Fight. Adapt. Survive. Remember. Evolve.”
+
+>“Fight. Adapt. Survive. Remember. Evolve.”
 When Jason Bourne wakes up, he doesn’t know who he is—but his survival instinct knows everything. In a world of chaos, he learns to see patterns, reclaim agency, and act fast. In digital transformation, you’re Bourne at the edge: no time to freeze, no room for panic. The ones who evolve in motion—who choose to fight and learn in real-time—are the ones who survive disruption and rewrite their future.|
 
 CEOs, founders, and executives are, without question, human—complete with their strengths, flaws, and failings. Yet, they occupy the highest ranks because of their experiences, seniority, and track records. For the organizations they lead, this means they are relied upon, often completely, to confront whatever arises—turning problems into challenges, and challenges into opportunities. But here lies the uncomfortable truth: how many opportunities are abandoned, sacrificed to fear or shame?
