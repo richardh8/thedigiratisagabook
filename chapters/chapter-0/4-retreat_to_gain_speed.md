@@ -5,7 +5,7 @@
 | Batman Begins |
 | :---: |
 |![](../../images/retreat_to_gain_speed.png)|
-|“To conquer fear, you must become fear.”|
+|To conquer fear, you must become fear.|
 
 >Bruce Wayne disappeared from the world not to escape it, but to reforge himself. In the shadows of his retreat, he studied, trained, and reshaped his very identity—returning not as a man, but as a symbol of unshakable purpose. In transformation, we too must sometimes retreat—not out of fear, but to regain control of our story. To step back is not to fall behind—it is to leap forward with precision, velocity, and vision.
 
