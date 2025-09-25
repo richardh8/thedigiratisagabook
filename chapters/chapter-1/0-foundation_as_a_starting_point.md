@@ -1,7 +1,31 @@
 # Foundation As A Starting Point
 
-Once we are able to identify a clear and engaging purpose of the digital business in terms of guiding vectors, establishing the foundation of the digital transformation and on where to build this business is definitely and clearly the next step prior going crazy ahead on executing on full steam. Some may be confused about going "Agile" - go hiring, squad in, build up, release it - thinking that bias for action alone will be effective and efficient. Establishment of foundation principles and capabilities are key to sustaining the strategy and digital transformation programs and projects in the long run, it also sets the tone of the culture, practices and decision-making which will be cascaded to every individual contributor. Otherwise you might risk everything by becoming a tactical to operational executor with little to no room to focus on the strategy, its measurements, metrics and assess results. Having high time of preference, means you are inclined to favor the present with facts but simply restricted compared with the future, meaning being with a high time preference is more concerned about catering to present needs than those of the future. Trying shortcuts and cookie-cutters might sound great at first, but painful in the long run, so it isn't about sacrificing short-term objectives, but executing on top of foundations, and avoiding compromising the long-term goals and managing the digital transformation journey at the strategy tier.
+>"Purpose may light the path, but without a foundation, the first storm will wash it away. In digital transformation, speed without structure is a mirage—impressive from a distance, but gone when you get close. Your foundation is the ground you build on, the principles that outlast trends, the architecture that supports both ambition and execution. It is the quiet force that turns urgency into endurance, and action into lasting impact."
 
-Building a backwards plan from the aspired outcome, centering on how is your organization going to gain digital technology capabilities and expertise, how innovative user experiences as a way to create distinctive value will set the bar levels for the teams,  an adaptable, fast and automated as possible architecture at the organization, domains, processes, software and infrastructure levels will enable a platform of experiments, learnings and deploys. The process to uncover, relate and curate partners that will help you complete your value stream creation, how communication and connections of the people and processes will be efficient, and deliver engaging and valued results, coherent and be executed. And what are the conventions in terms of emergent processes that will allow agility and value-oriented development and delivery of your digital transformation, are prime thoughts that must be pondered to compose the foundations which the culture values will rely on, and the ones that accept the dynamics of life, so teams can adjust without deviating and taking a new direction without delivering the program and project, every well thought strategy deserves finality.
+Once we identify a clear and engaging purpose for the digital business—a set of guiding vectors that unite vision and intent—the next step is unmistakable: establishing the foundation before racing ahead at full speed. This is the discipline that separates lasting transformation from chaotic bursts of activity.
+
+Many fall into the trap of believing that “going Agile” means moving fast without pause: hire quickly, spin up squads, build, release, repeat. This bias for action can be intoxicating, but without foundational principles and capabilities in place, it risks burning resources while undermining long-term strategy.
+
+A strong foundation sustains the digital transformation strategy over time. It defines the cultural tone, shapes decision-making norms, and provides a stable frame for every project and initiative. Without it, organizations risk becoming tactical executors—busy, but directionless—focused only on short-term delivery while neglecting measurement, metrics, and strategic assessment.
+
+Leaders must also understand the concept of time preference. High time preference means prioritizing the present—making choices that address immediate needs but often at the expense of the future. In digital transformation, this can manifest as quick wins that sacrifice structural integrity. The goal is not to abandon short-term objectives, but to ensure they are built on top of a foundation that protects long-term goals.
+
+Shortcuts and cookie-cutter approaches might deliver an initial burst of satisfaction, but they come with hidden costs. Over time, the lack of structural discipline erodes progress. Instead, leaders should focus on building a foundation that is resilient, adaptable, and aligned with the strategy tier of the transformation journey.
+
+⸻
+
+**Designing the Foundation**
+The process starts by working backwards from the aspired outcome:
+* Capabilities & Expertise – Define how your organization will acquire and grow digital technology skills and knowledge.
+* Innovative User Experiences – Set the bar for creating distinctive value that differentiates you from the competition.
+* Adaptable Architecture – Develop fast, automated systems across organization, domains, processes, software, and infrastructure—capable of supporting experiments, learnings, and rapid deployments.
+* Strategic Partnerships – Identify, evaluate, and cultivate partners who can help complete your value stream.
+* Efficient Communication – Design processes and channels that connect people and teams seamlessly, ensuring execution is coherent and results are engaging and valuable.
+* Emergent Processes – Establish conventions that allow agility and value-focused development, enabling teams to adapt without losing strategic direction or derailing delivery.
+
+These elements are not static checkboxes—they are living foundations, meant to absorb the dynamics of change while keeping the organization’s trajectory intact.
+
+Every well-designed strategy deserves finality—a clear, purposeful outcome that reflects the original intent, while having evolved through informed adjustments along the way. Without such a foundation, the transformation will remain fragile, vulnerable to distraction, and at risk of never fulfilling its promise.
+
 
 [<< previous](../chapter-0/5-building_from_purpose.md) | [next >>](1-evolving_digital_thinking.md)
