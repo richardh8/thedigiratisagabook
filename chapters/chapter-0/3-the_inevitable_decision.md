@@ -5,7 +5,7 @@
 | Oppenheimer |
 | :---: |
 |![](../../images/the_inevitable_decision.png)|
-|“Now I am become Death, the destroyer of worlds.”|
+|Now I am become Death, the destroyer of worlds.|
 
 >Oppenheimer didn’t have the luxury of time. Faced with irreversible change, he made a decision that forever altered the trajectory of humanity. In today’s digital landscape, the technologies we unleash shape economies, societies, and values. You may not fully comprehend the chain reaction your choices trigger—but refusing to decide is itself a destructive force. Inaction isn’t neutral—it’s surrender.
 
