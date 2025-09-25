@@ -5,8 +5,9 @@
 | Batman Begins |
 | :---: |
 |![](../../images/retreat_to_gain_speed.png)|
-|“To conquer fear, you must become fear.”
-Bruce Wayne disappeared from the world not to escape it, but to reforge himself. In the shadows of his retreat, he studied, trained, and reshaped his very identity—returning not as a man, but as a symbol of unshakable purpose. In transformation, we too must sometimes retreat—not out of fear, but to regain control of our story. To step back is not to fall behind—it is to leap forward with precision, velocity, and vision.|
+|“To conquer fear, you must become fear.”|
+
+>Bruce Wayne disappeared from the world not to escape it, but to reforge himself. In the shadows of his retreat, he studied, trained, and reshaped his very identity—returning not as a man, but as a symbol of unshakable purpose. In transformation, we too must sometimes retreat—not out of fear, but to regain control of our story. To step back is not to fall behind—it is to leap forward with precision, velocity, and vision.
 
 Retreating to gain speed is not a sign of weakness—it is one of the most strategic moves a leader can make. In a world driven by relentless change and digital acceleration, the pressure to move faster can push leaders into reactive, short-sighted decisions. But the reality is this: sometimes, the fastest way forward begins by stepping back.
 
