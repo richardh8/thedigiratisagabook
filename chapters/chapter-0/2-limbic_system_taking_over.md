@@ -5,7 +5,7 @@
 | Jason Bourne – The Bourne Identity |
 | :---: |
 |![](../../images/limbic_system_taking_over.png)|
-|“Fight. Adapt. Survive. Remember. Evolve.”|
+|Fight. Adapt. Survive. Remember. Evolve.|
 
 >When Jason Bourne wakes up, he doesn’t know who he is—but his survival instinct knows everything. In a world of chaos, he learns to see patterns, reclaim agency, and act fast. In digital transformation, you’re Bourne at the edge: no time to freeze, no room for panic. The ones who evolve in motion—who choose to fight and learn in real-time—are the ones who survive disruption and rewrite their future.
 
