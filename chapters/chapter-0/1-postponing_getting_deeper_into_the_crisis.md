@@ -5,8 +5,9 @@
 | Joker |
 | :---: |
 |![](../../images/postponing_getting_deeper_into_the_crisis.png)|
-|“He laughed because crying no longer worked.”
-In Joker, Arthur Fleck spirals into a chaotic descent, not simply because of mental illness, but because society stopped listening, caring, or changing. Each postponed decision, each ignored signal, pushed him further into a world where madness made more sense than logic. Organizations, too, postpone — they drown in denial, silencing the signals of entropy, indulging in status quo comfort until the culture fractures from within. Just like Arthur, they don’t explode all at once — they unravel.
+|“He laughed because crying no longer worked.”|
+
+|In Joker, Arthur Fleck spirals into a chaotic descent, not simply because of mental illness, but because society stopped listening, caring, or changing. Each postponed decision, each ignored signal, pushed him further into a world where madness made more sense than logic. Organizations, too, postpone — they drown in denial, silencing the signals of entropy, indulging in status quo comfort until the culture fractures from within. Just like Arthur, they don’t explode all at once — they unravel.
 
 This image is not about villainy. It’s about what happens when leaders fail to act, when systems lose their soul, and when the cracks are painted over until collapse becomes inevitable.
 And then… we wonder how we got here.|
