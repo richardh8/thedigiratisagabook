@@ -5,8 +5,8 @@
 | Gladiator |
 | :---: |
 |![](../../images/building_from_purpose.png)|
-|“What we do in life… echoes in eternity.”
-They took everything from Maximus—his home, his family, his freedom. But not his purpose. In the chaos of empire, he became a beacon of meaning. Not by chasing glory, but by standing for something greater. In a world of infinite possibility, purpose is what cuts through the noise. It is what gives weight to your decisions, soul to your systems, and courage to your transformation.|
+|“What we do in life… echoes in eternity.”|
+>They took everything from Maximus—his home, his family, his freedom. But not his purpose. In the chaos of empire, he became a beacon of meaning. Not by chasing glory, but by standing for something greater. In a world of infinite possibility, purpose is what cuts through the noise. It is what gives weight to your decisions, soul to your systems, and courage to your transformation.
 
 Building from purpose is not a branding exercise—it is a leadership imperative. In an era defined by rapid disruption, accelerating technology, and constant social change, purpose is the unshakable foundation that keeps an organization oriented toward what matters most. Without it, speed becomes drift, and innovation becomes aimless experimentation.
 
