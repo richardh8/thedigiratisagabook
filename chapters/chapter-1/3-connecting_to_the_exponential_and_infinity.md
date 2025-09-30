@@ -39,6 +39,7 @@ This openness must be humble—free from corporate vices, hidden agendas, and ex
 At its best, this is an introspective journey: connecting the organization’s best knowledge, experience, and resources to a higher plane of purpose—one that measures success by societal impact and the ability to touch millions of lives.
 
 ⸻
+
 **Designing for the Ecosystem**
 
 Such openness enables the creation of exponential purposes—ambitions too large to be contained within one organization. These must be nurtured through strategic partnerships that sustain, integrate, and expand the purpose at the ecosystem level.
