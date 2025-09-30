@@ -1,28 +1,88 @@
 # Collaborating in the Ecosystem
 
->"Focusing on your core value streams is key to not get your organization overwhelmed and spending money and time on supporting functions. Therefore, connecting core value streams in the ecosystem to remove your customer frictions and hassle, letting the concatenation and symbiosis of supporting functions to partners, while contributing back to the ecosystem with your core value, promotes a win-win scenario with many up sides."
+>"No matter how powerful your organization becomes, resist the illusion of going alone. In the digital era, isolation is a weakness. Strength comes from knowing your core value streams, focusing on them relentlessly, and integrating them into a network of partners who remove friction for your customers, extend your capabilities, and amplify your impact. In a true ecosystem, your contribution is matched by what you receive—creating a symbiotic cycle of growth, innovation, and shared success."
 
-| Movie |
+| The Expendables |
 | :---: |
 |![](../../images/collaborating_in_the_ecosystem.png)|
-|Produce virtuous values and aspiration to others|
+|Create virtuous alliances that extend impact and multiply purpose|
 
->In the movie "The Expendables", Barney Ross is an ex-combatant of the American Special Air Service, who knows several agents well and has them as friends. They join any parade Barney organizes, they know the value and purpose of the mission, and they are all united by trust, friendship and a taste for guns. There are no pirates, gangsters and mobsters to stop them.
+>In the movie "The Expendables", Barney Ross leads a team of elite mercenaries bonded by loyalty, trust, and a shared mission. Each member brings unique skills, but it’s their unity—born from mutual respect and purpose—that makes them unstoppable. Their effectiveness doesn’t come from individual power, but from seamless collaboration across a trusted ecosystem. Just like in business, the mission succeeds when every player knows their role—and they all rise together.
 
-"No matter how powerful you become, never try to do it alone, or you will fail." This common phrase in anime currently expresses digital organizations very well. We are living in a moment where the concept of collaboration is going to unthinkable heights. The power of collaboration is being one of the great catalysts of innovation and disruption in the market. And these disruptions are happening with increasing frequency.
+In anime, there’s a recurring truth: “No matter how strong you are, you will fail if you fight alone.” This principle applies perfectly to modern digital organizations.
 
-Leaders of digital transformation journeys are being challenged to create and nurture digital ecosystems that involve customers, employees, suppliers or even similar business networks. Partners become customers, competitors become partners, and suppliers act as customers.
+We are in an era where collaboration has reached unthinkable heights—a force that is no longer optional, but central to survival. The most profound market disruptions are now born not from solitary innovators, but from ecosystems—networks of organizations, partners, competitors, suppliers, and even customers co-creating value at scale.
 
-Digital ecosystems are communities that use scalable shareable resources to achieve challenging goals and common interests. Digital ecosystems are key to disrupting markets and effectively competing in our current highly connected digital world. Through platforms that make shared resources available, such as software, data and computing resources, ecosystems help organizations deliver high value-added products and services with great speed and efficiency. Ecosystem is about creating value. Ecosystems allow businesses to learn all the time and identify market opportunities that no one understands as possible.
+Leaders of digital transformation journeys are being challenged to design and sustain digital ecosystems that are fluid, inclusive, and mutually reinforcing. In these networks:
+* Partners can also be customers.
+* Competitors can become collaborators.
+* Suppliers can act as co-creators.
 
-But how to consider aspects of ecosystems in a digital transformation strategy? As part of the answer, it can be said that considering aspects of ecosystems is essential, or rather, vital. Below are some of the aspects to consider:
+⸻
 
-Create Partnerships to Accelerate Growth: Organizations have traditionally brought new products and services to market in a highly planned manner. This systematic strategy does not hold up in today's much more dynamic market where offers become obsolete and commoditized very quickly. Today organizations must be much more fluid, adaptable and always ready to change. Good partnerships that build ecosystems add a lot, bringing unique capabilities.
+**What is a Digital Ecosystem?**
 
-Use cloud resources to build relationships and enable continuous change: Migration of technological resources to the cloud is always thought of because of its lower cost. Everyone agrees that this is a great argument and will always be the starting point. However, the potential of having your systems running there, where customers, suppliers and partners can easily integrate without the restrictions of the on-premises world should never be overlooked.
+A digital ecosystem is a community of interdependent actors who use scalable, shareable resources—software, data, computing capacity, or even physical infrastructure—to pursue shared goals and unlock mutual opportunities.
+These ecosystems:
+* Enable rapid delivery of high-value products and services.
+* Leverage collective intelligence to learn faster.
+* Spot market openings that individual players wouldn’t recognize alone.
 
-An organization does not belong to a single ecosystem: leaders often think of ecosystems as something their core business model should be aligned and connected to. The topic of ecosystems is much broader than that. An organization must be connected to diverse ecosystems. Even the most unlikely ones, which may have little or nothing to do with your main business. Innovations and ruptures always come from the improbable.
+Far from being static, ecosystems are living organisms that continuously evolve, adapt, and multiply value for their participants.
 
-So, always think about leveraging ecosystems in your favor and purpose. By doing this, you will always be getting a good deal.
+⸻
+
+**Why Ecosystems Matter to Digital Transformation**
+In a connected world, competing as a lone entity is like showing up to a marathon barefoot while others arrive with an elite relay team. Ecosystems accelerate speed, adaptability, and reach—all critical in a digital transformation strategy.
+
+Key aspects to embed into your transformation approach:
+
+⸻
+
+**1. Build Partnerships to Accelerate Growth**
+
+Traditional market strategies—slow, linear, overplanned—are too brittle for today’s volatility.
+
+Good partnerships bring unique capabilities into your value chain that you could not build quickly or affordably in isolation.
+
+In an ecosystem, time-to-market shrinks, and your ability to pivot rises exponentially.
+
+⸻
+
+**2. Leverage the Cloud as the Integration Hub**
+
+Cloud adoption is often justified purely on cost savings—but that’s the smallest part of its value.
+
+In the cloud, customers, suppliers, and partners can integrate with you easily, without the friction of on-premises limitations.
+
+This enables continuous change—new solutions, updated processes, and evolving collaborations—all without waiting for hardware cycles or procurement delays.
+
+⸻
+
+**3. Participate in Multiple Ecosystems**
+
+Many leaders assume they belong to one ecosystem aligned with their core business. This is a limiting belief.
+
+Innovation often comes from the improbable connections—fields, industries, and communities that seem unrelated to your main domain.
+
+Engaging across multiple ecosystems broadens your access to ideas, technologies, and partnerships that can drive unexpected breakthroughs.
+
+⸻
+
+**The Win-Win Nature of Ecosystems**
+
+A well-functioning ecosystem is symbiotic:
+
+* You focus on your core value streams—what your organization does best.
+* Supporting functions, integrations, and complementary offerings are handled by specialized partners.
+* You contribute back to the network, strengthening its overall health and making it more valuable for every participant—including yourself.
+
+When done right, ecosystems reduce customer friction, cut internal inefficiencies, and create amplified growth opportunities far beyond what any one organization could achieve alone.
+
+⸻
+
+**Bottom line:**
+
+The digital future rewards connectors, not loners. In the age of platforms, APIs, and real-time collaboration, your ability to build, participate in, and contribute to diverse ecosystems will be one of the most decisive competitive advantages you can possess.
 
 [<< previous](5-architecting_for_continual_change.md) | [next >>](7-creating_historical_journeys.md)
