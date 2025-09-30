@@ -5,8 +5,7 @@
 | Braveheart |
 | :---: |
 |![](../../images/whats_up_to_you.png)|
-|>Are your purpose and career aligned with meaning?
-|
+|Are your purpose and career aligned with meaning?|
 
 >In the movie “Braveheart”, William Wallace leads the Scottish rebels in the fight against the rule of the English King Edward I. They couldn't stand the abuses of the English army anymore. After winning countless battles, he is betrayed by the Scottish nobles themselves, ending up tortured and executed in the public square.
 
