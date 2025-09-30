@@ -1,30 +1,45 @@
-# Culture eating strategy
+# Culture Eating Strategy
 
->"Understanding and aligning organizational culture with digital transformation strategy is critical for success, fostering employee and customer acceptance, loyalty, and resilience during challenging times."
+>"Strategy may set the direction, but culture determines whether you’ll get there. In digital transformation, aligning both is not optional—it’s the only way to gain trust, inspire loyalty, and carry your organization through uncertainty and change."
 
-| Movie |
+| The Wolf of Wall Street |
 | :---: |
 |![](../../images/culture_eating_strategy.png)|
 |Organizational culture is your strategy|
 
->In the movie “The Wolf of Wall Street”, Jordan Belfort leads Stratton Oakmont day-to-day using various types of rewards for his colleagues, he treated them as colleagues, and they celebrated the success of the results together.
+>In the movie *The Wolf of Wall Street*, Jordan Belfort drives Stratton Oakmont with a bold, unorthodox culture—fueled by charisma, rewards, and shared rituals. While the company’s strategy was aggressive growth, it was the *culture* that mobilized people with intensity, loyalty, and belief in a collective cause (however flawed). For better or worse, the firm didn’t run on structure—it ran on energy. The story is a sharp reminder that culture can drive performance faster than strategy alone… or derail it completely.
 
-Understanding organizational culture is crucial to business success. By asking the question “How do you feel working here?”, you can explore how much the people involved in an organization are aligned with it.
+Understanding organizational culture is not a side exercise—it’s a strategic necessity for lasting business success. A single, deceptively simple question can open the door to this understanding:
 
-The organizational culture is fused to the meanings and purposes of the organization. And it is primarily defined through the meanings and purposes that people give to that organization.
+“How do you feel working here?”
 
-When an organization wants to implement a new strategy, the chance of success is directly linked to its alignment with organizational values ​​and culture. The greater this alignment, the greater the chance of successful implementation. If an established strategy is out of alignment with the organization's culture, this will be felt by people as a betrayal. This situation causes a serious breach of trust and values. And in many cases, it completely prevents the results of this strategy from being achieved.
+The answers reveal far more than operational metrics ever could. They tell you whether people feel connected to the organization’s purpose, whether they see themselves in its story, and whether they believe in its future.
 
-A digital transformation is considered a strategy with broad objectives covering the expansion of the business or even the guarantee of its existence in the face of a visible market disruption. A digital transformation always aims to change deep elements of an organization, its internal processes, the way its employees think and act, and even create or completely modify their business models.
+Organizational culture is the living embodiment of an organization’s meanings and purposes. It’s not written solely in handbooks or corporate statements—it is defined and redefined every day by the attitudes, choices, and shared experiences of the people who make up the organization.
 
-Thus, it is essential to understand the organizational culture, which sometimes evolves over time through the actions of the people involved in that organization. And align digital transformation with those values and culture. In this way, the chance of acceptance both internally by employees and externally by customers and suppliers will be much greater, as well as the success of this transformation journey will have a much greater chance of success.
+When an organization launches a new strategy, its success is directly proportional to the degree of alignment between that strategy and the existing organizational values and culture. If the two are in harmony, execution feels natural—momentum builds almost effortlessly. But if a strategy stands in opposition to the prevailing culture, people often perceive it as a betrayal. This breach of trust can poison morale, slow execution, and in some cases, completely sabotage the intended results.
 
-When you see employees executing a strategy without needing direction and management over their activities, it is possible to realize that such a strategy is perfectly aligned with the organization's culture. In these moments, both the organization and its employees win and the success of journeys such as a digital transformation is guaranteed. The value of aligning Culture with Strategy.
+Digital transformation is perhaps the ultimate culture–strategy stress test. By its nature, it seeks to reshape fundamental aspects of the organization:
+* How internal processes operate
+* How employees think and behave
+* How products and services are designed and delivered
+* Sometimes, the very business model itself
 
-Understanding that cultures are resilient, even during crises;
-People aligned with the organizational culture will be with you in difficult times even if a recovery strategy has not yet been established;
-In an image crisis, employees defend the organization rather than joining the attack;
-People are loyal to cultures (meanings and purposes) and not to strategies;
-Strategies aligned with organizational culture are perceived by people as positive and generate confidence.
+This level of change can only succeed when it resonates with the culture—or when culture is deliberately and thoughtfully evolved to embrace the transformation. Without this alignment, transformation risks being rejected like a foreign object in the body’s immune system.
+
+When digital transformation is embedded within the cultural DNA, acceptance flows naturally:
+* Employees embrace change without constant top-down direction.
+* Customers and suppliers sense the authenticity of the shift.
+* External stakeholders see consistency between words and actions.
+
+In these moments, culture acts as both the engine and the safety net—driving adoption and protecting the organization in turbulent times.
+
+The value of aligning culture with strategy is clear:
+* Resilience in crisis – People anchored in the culture stand with the organization through hardship, even before recovery plans are in place.
+* Defensive loyalty – In moments of reputational challenge, employees become advocates, not detractors.
+* Purpose over policy – People remain loyal to the culture’s meanings and values, not just to the current strategy.
+* Confidence through coherence – Strategies that reflect cultural values are viewed as authentic, instilling trust and commitment.
+
+In short, culture eats strategy for breakfast not because strategy is irrelevant, but because culture is what allows strategy to live beyond the planning stage. In the context of digital transformation—where change is rapid, complex, and often uncomfortable—culture alignment is not merely a competitive advantage. It is the difference between transformation that thrives and transformation that fails.
 
 [<< previous](1-trust_as_a_starting_point.md) | [next >>](3-whats_in_for_me.md)
