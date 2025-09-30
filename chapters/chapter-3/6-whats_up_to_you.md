@@ -1,6 +1,6 @@
 # What's up to you?
 
->"The importance of aligning personal and organizational purpose is highlighted in the movie "Braveheart". Passion and purpose fuel successful organizations, with people looking for personal fulfillment and refusing to work for organizations with contrary values. Organizations must rethink their motivational strategies, making their purposes transparent, clear, and authentic to attract and engage the right people. A frank conversation with everyone is crucial when preparing for a digital transformation journey to understand if the chosen path aligns with the employees' and society's values."
+>"When personal purpose aligns with organizational mission, work transcends a paycheck — it becomes a cause worth fighting for. Without that alignment, no strategy, no salary, and no perks can ignite true commitment."
 
 | Braveheart |
 | :---: |
@@ -10,22 +10,32 @@
 
 >In the movie “Braveheart”, William Wallace leads the Scottish rebels in the fight against the rule of the English King Edward I. They couldn't stand the abuses of the English army anymore. After winning countless battles, he is betrayed by the Scottish nobles themselves, ending up tortured and executed in the public square.
 
-One of the major reasons why employees are unhappy and unmotivated, as numerous recent surveys point out, can be defined as a lack of synergy between their purpose and that of the organization. Yes, it happens a lot. But it's also common to see dissatisfied employees who don't look for ways to adapt and align with an organization's purposes. They should ask themselves. What is my motivation for being here? What problem do I want to solve? What is my contribution to this organization? How can I positively impact society? These questions can guide employees' expectations and help them align their purposes with those of the organizations they work for.
+One of the leading causes of disengagement and dissatisfaction in the workplace, as numerous studies confirm, is a lack of alignment between an individual’s personal purpose and the organization’s purpose. This mismatch erodes motivation, diminishes performance, and in many cases, leads to the quiet but costly drift of talent away from the business.
 
-We have entered a new era where successful organizations are fueled by passion and purpose, not just the money they generate. People are also more aware of their role as a professional and in society. And these people would only work in organizations where their purposes are aligned.
+Yet the responsibility is not solely on the organization. Employees, too, have a duty to seek clarity and alignment. They should ask themselves:
+* What is my motivation for being here?
+* What problem am I passionate about solving?
+* What unique contribution can I bring to this organization?
+* How can I positively impact society through my work?
 
-There is today a great concern with the social and with the sustainable. And more and more competent professionals would decline invitations to work for organizations with purposes contrary to these values.
+These questions form the foundation for meaningful engagement, helping professionals determine whether their values, aspirations, and personal sense of mission are in harmony with the organization they choose to serve.
 
-Working with purpose is no longer a privilege and has become part of the search for personal fulfillment. Working with purpose tends to transform work into more than just a job or a career, but into an engagement and a hero in difficult times. People understand that their talents are at the service of something they believe in.
+We are living in a new era where high-performing organizations are powered by passion and purpose — not merely by profit. The workforce is increasingly conscious of its societal role, seeking employers whose principles and priorities match their own. This shift is especially pronounced in areas such as sustainability, diversity, social responsibility, and ethical governance. Talented individuals now routinely decline offers from companies whose values contradict their own — no matter how attractive the compensation.
 
-The time has come for people to take responsibility for their life purpose, their career and how to apply their talents and skills to achieve personal fulfillment. Self-knowledge, insight into your skills, interests, talents and passions are the first step to understanding the right path.
+Working with purpose is no longer a luxury reserved for the few; it has become a central pursuit in the quest for personal fulfillment. Purpose-driven work transforms a “job” into a mission, turning professionals into committed allies who stand with their organizations in both triumph and adversity. When people believe in the cause, their talents become weapons in service of something greater than themselves.
 
-Also, organizations must rethink their motivational strategies. A good salary may not be the main motivator for talent acquisition and retention. In fact, they must make their purposes as transparent and clear as possible. And ensure that such purposes are authentic. That alone could be enough to attract people who believe in these purposes. And these people would easily engage in the proposed challenges.
+This, however, requires self-awareness. Individuals must actively seek to understand their talents, strengths, passions, and values. Only then can they navigate towards roles and organizations where their purpose can take root and grow.
 
-Through clarity of communication and common interests, connection and empathy, organizations and employees can walk together and understand that their purposes are aligned.
+For organizations, the lesson is equally clear: rethink motivational strategies. While competitive salaries remain important, they are no longer the dominant magnet for attracting and retaining top talent. Instead, companies must make their purpose explicit, transparent, and authentic. It’s not enough to put a vision statement on a wall — it must be lived, demonstrated, and embedded into daily decisions. When an organization’s stated purpose resonates with people’s own aspirations, engagement follows naturally.
 
-In the course of a digital transformation journey, there are moments where organizational values and cultures are revisited. There is a questioning about the purpose of the organization. And that will impact your employees. There may be different reactions, whether euphoria or engagement, but also resistance, lack of belief in action and insecurity. It is important for leaders to assess the conditions of how to build this journey, understanding the purposes that make their employees there and aligning them with the new organizational purposes that may come. One must identify which talents, experiences, new skills and knowledge need to be established. In this way, you can retain and attract the right professionals who will be able to successfully lead the transition. Also, this journey should be built together with the teams rather than through executive summary decisions or recommendations from external consultants. It is rare for such strategies to create employee engagement and the chances of failure are high. Without the mutual support of leaders and employees, a process of sabotage can begin, incurring delays, errors and increases in costs and investments.
+In the context of a digital transformation journey, the stakes are even higher. Transformations often require revisiting — and sometimes redefining — the organization’s values, mission, and long-term objectives. This can trigger a wide spectrum of reactions: excitement and buy-in from those who see the alignment, but also skepticism, fear, or resistance from those who feel the new direction conflicts with their personal or professional ideals.
 
-When preparing for a digital transformation journey, a frank conversation with everyone is crucial. Understanding whether the path the organization has decided to take makes sense for its employees and society. You should ask everyone and yourself: What is yours?
+This is where leadership plays a decisive role. Leaders must assess whether the organization is ready for the journey — not just in terms of technology and processes, but in terms of purpose alignment. They need to understand what drives their people to stay, contribute, and commit. They must identify which talents, skills, and knowledge will be essential for the future, and then build pathways to acquire and strengthen them.
+
+Crucially, this process cannot be driven solely from the executive suite or dictated by external consultants. Successful alignment is co-created with the teams who will live it every day. Without their involvement, leaders risk building strategies in isolation — strategies that may look strong on paper but collapse under the weight of poor engagement and quiet resistance. In the worst cases, misalignment breeds active sabotage, leading to delays, errors, and wasted investments.
+
+When preparing for a transformation — digital or otherwise — organizations must initiate frank, organization-wide conversations. They should openly ask: Does this new path make sense to our people? Does it make sense to society? And equally important: Do our people see themselves in this journey?
+
+At the end of the day, both sides must answer the same fundamental question: What’s up to you? What is the role you want to play in shaping the future? If the answer feels true and shared, the organization gains more than just compliance — it gains wholehearted commitment.
 
 [<< previous](5-things_own_or_use_them.md) | [next >>](7-leading_from_the_bottom_up.md)
