@@ -1,6 +1,6 @@
 # Creating Historical Journeys
 
->"Stories move people more than strategies, and purpose aligns them faster than any policy. When you tell a compelling and purposeful story—one rooted in real challenges and authentic aspirations—you give every team, in every layer of the organization, a shared vision to rally behind. These stories become the compass that guides decision-making, empowers delegation, and turns milestones into chapters of a living history your organization is proud to write.”"
+>"Stories move people more than strategies, and purpose aligns them faster than any policy. When you tell a compelling and purposeful story—one rooted in real challenges and authentic aspirations—you give every team, in every layer of the organization, a shared vision to rally behind. These stories become the compass that guides decision-making, empowers delegation, and turns milestones into chapters of a living history your organization is proud to write.”
 
 | The Lord of the Rings |
 | :---: |
