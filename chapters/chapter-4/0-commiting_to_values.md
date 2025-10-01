@@ -1,4 +1,7 @@
+<img src="../../images/value.png" width="100" height="100">
+
 # Commiting to Values
+Value Domain
 
 >“Values are not slogans on the wall — values are the invisible scaffolding that holds an organization together through uncertainty, pressure, and change. They are not decorative words, but the living forces that guide behavior, inspire trust, and give meaning to every decision.”
 
