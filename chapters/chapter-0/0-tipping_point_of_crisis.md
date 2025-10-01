@@ -1,4 +1,7 @@
+<img src="../../images/crisis.png" width="100" height="100">
+
 # Tipping Point of Crisis
+Current State Reality Domain
 
 >"A crisis is not merely a disruption—it is the ultimate mirror, forcing us to confront who we truly are, what we value, and what we are capable of becoming. It is the fire that strips away illusions, the forge that reshapes our purpose, and the battlefield where fear and opportunity stand face-to-face. Those who dare to step forward, rather than freeze, discover that within the chaos lies the blueprint for reinvention, resilience, and the rebirth of greatness."
 
