@@ -44,7 +44,7 @@ Your cultural DNA cannot be fabricated or copy-pasted from another company’s p
 
 ⸻
 
-**Bottom line: **
+**Bottom line:**
 Transparency is not a trend — it’s the new market condition. It is as much about protecting and building trust as it is about reducing the friction between your internal reality and your external promise. Organizations that embrace transparency as a strategic value, not just a compliance checkbox, will be the ones that inspire loyalty, attract top talent, and earn the right to lead in a world where everything is visible.
 
 [<< previous](2-sense_of_justice.md) | [next >>](4-the_problem_is_yours.md)
