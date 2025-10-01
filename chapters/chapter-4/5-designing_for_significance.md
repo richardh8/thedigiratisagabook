@@ -1,21 +1,60 @@
-# Designing for significance
+# Designing for Significance
 
->"The presence of a sense of purpose and meaning is fundamental for adequate performance in any activity. Clarity in vision, purpose, and meaning is crucial for employee engagement and a company's ability to execute strategically. Consumers demand a broader action concerned with issues of public interest, and businesses with a clear sense of purpose can attract new talent, promote a cooperative culture, and represent a competitive advantage."
+>"In any long-term endeavor — whether it’s building a business, delivering a project, or sustaining high performance in a role — purpose and meaning are not luxuries; they are prerequisites. Without them, engagement wanes, energy dissipates, and both individuals and organizations lose their strategic focus."
 
 | 300: Rise of an Empire |
 | :---: |
 |![](../../images/designing_for_significance.png)|
 |Greater meaning, more challenges, generates a lot of engagement|
 
->In the movie “300: Rise of an Empire”, the Athenian General Themistocles unites all of Greece to fight in the Second Medical War to retake the city of Athens, taken by the Persians.
+>In the movie *300: Rise of an Empire*, Athenian General Themistocles rallies a divided Greece to face the might of the Persian Empire. Though outnumbered, his strategy is not just military — it’s *symbolic*. He gives the people of Greece something larger than fear to hold onto: *a reason to fight*. By uniting them under a shared sense of significance — the freedom and future of their homeland — he transforms fragmented resistance into a force of enduring power. Just like in organizations, when the mission matters, people don’t just participate — they *commit*.
 
-Leading an organization towards its goals is a big challenge. A legitimate work of orchestration of processes, technologies and, above all, people. When it comes to constantly aligning resources in favor of strategy, having clarity of purpose in the minds of all involved is one of the items that favors employee engagement around stated goals and brings the company closer to customers with more lasting connections. This doesn't just happen in the corporate environment. In practically any activity that a person needs to perform during medium and long term periods with adequate performance, the presence of a sense of purpose and meaning is fundamental.
+Leading an organization toward its goals is, at its core, an orchestration — aligning processes, technologies, and, most critically, people. In this symphony, clarity of purpose is the conductor’s baton. When everyone understands why they are doing what they do, alignment happens naturally, engagement rises, and the organization becomes more than just a machine for delivering outputs; it becomes a living organism capable of creating lasting connections with customers, employees, and society.
 
-According to Simon Sinek, author of the book “Start With Why”, in relation to his proposition of the so-called “Golden Circle”, innovative companies that are clear about why they exist manage to inspire the action of their employees as well as their customers. They do this because they capture people's unconscious through purposes and values compatible with theirs. For him, many still fail because they focus their communication on other instances: “What” and How”, that is, they are concerned with connecting people with “what” they do and “how” they do it, when the important thing is. it is to focus on the “why”, which is the purpose and meaning for which the company exists, thinks and acts in the market.
+⸻
 
-Therefore, clarity in vision, purpose and meaning, although they seem simple and obvious issues, when they are not well consolidated in an organization, they can diminish its ability to execute strategically. On this, a Harvard Business Review article called “When CEOs Speak, Is Anyone Listening?” addresses an important situation on this topic. According to a survey, 70% of employees are unaware or misaligned with the company's strategic direction, that is, there is little understanding of why the business exists and why it is worth investing effort in the future. Nor are they clear on how their concrete workplace initiatives connect to the company's larger purpose, such as better serving its customers.
+**The Golden Circle: Why Before What and How**
 
-From the point of view of the market, consumers are increasingly demonstrating that they are not only satisfied with the possibility of acquiring more products and services, but rather expect behavior that transcends meeting quality and price requirements. Unlike past generations, new consumers demand a broader action, concerned with issues of public interest and symbolic universes capable of generating rational and affective connections. The Millennial Survey, published by Deloitte, addressed the customs of the generation of people born after 1986. The survey that was carried out with more than 7,800 people around the world and concluded that millennials value the purpose of the business more than profit. Given this scenario, it is clear that establishing a constant sense of purpose is of utmost importance. In this direction, the organization understands the achievement of success, customer service and growth more consciously as a matter of alignment. With a clear vision and constant communication, belief in a purpose can represent a competitive advantage, allowing consistent exponential growth, attracting new talent connected to the proposal and promoting a cooperative culture.
+Simon Sinek’s concept of the Golden Circle — Why, How, What — reveals a common mistake in corporate communication: most organizations focus heavily on what they do and how they do it, while neglecting the deeper why that inspires action. The why is the purpose, belief, and cause that drives every decision.
+Innovative and enduring companies capture hearts and minds not by describing the features of their products or the mechanics of their processes, but by connecting their mission to the personal values of employees and customers. They operate on the understanding that purpose is not a marketing slogan — it is the foundation of culture, strategy, and execution.
+
+⸻
+
+**The Strategic Risk of a Fuzzy Purpose**
+
+While purpose may sound like a soft or obvious concept, the absence of a clearly articulated and widely understood purpose is one of the most strategically dangerous blind spots for any organization. A Harvard Business Review article, When CEOs Speak, Is Anyone Listening?, highlights this risk: in a survey, 70% of employees reported being unaware of or misaligned with their company’s strategic direction.
+
+This means that, in practice, the majority of employees lack clarity on why the business exists, why their work matters, and how their daily initiatives connect to broader strategic goals — such as improving customer experience, creating societal value, or driving innovation. The result is a gap between strategy and execution, where well-intentioned activity fails to translate into meaningful impact.
+
+⸻
+
+**Purpose Beyond Profit: The Market Shift**
+
+From the market perspective, a significant cultural shift is underway. Customers — particularly younger generations — are no longer content with companies that merely meet quality and price expectations. They want to support organizations that stand for something.
+The Deloitte Millennial Survey, which studied over 7,800 individuals born after 1986, found that millennials value a company’s purpose more than its profit. They are more likely to buy from, work for, and advocate for organizations that take a stance on social issues, embrace sustainability, and contribute to causes that resonate with their values.
+
+In this new reality, purpose becomes a competitive advantage:
+* It attracts top talent who seek more than a paycheck.
+* It inspires cooperation, reducing silos and fostering a shared identity.
+* It builds emotional loyalty with customers, creating advocates instead of mere buyers.
+* It aligns internal and external narratives, making the brand more coherent and trustworthy.
+
+⸻
+
+**Designing for Significance in Practice**
+
+Building a purposeful organization is not about drafting a lofty mission statement and hanging it in the lobby. It’s about embedding significance into the daily rhythms of work:
+1. Make the Purpose Visible — Purpose should be a constant presence in communication, decision-making, and recognition systems.
+2. Link Individual Roles to the Bigger Picture — Employees should clearly see how their work contributes to strategic goals and societal impact.
+3. Act with Consistency — Any disconnect between stated purpose and actual behavior erodes trust faster than no purpose at all.
+4. Measure What Matters — Incorporate purpose-driven metrics into performance dashboards, alongside traditional KPIs.
+
+When organizations design for significance, they move beyond transactional relationships to create communities of belief — both inside and outside the company. Employees become advocates, customers become partners, and growth becomes the natural outcome of shared meaning.
+
+⸻
+
+**Bottom line:**
+
+Purpose is not an accessory to strategy — it is the architecture upon which enduring strategies are built. In a digital and hyper-connected era, clarity of vision, purpose, and meaning is not just an advantage; it is a requirement for survival and a foundation for exponential success.
 
 [<< previous](4-the_problem_is_yours.md) | [next >>](6-diversity_as_a_platform.md)
-
