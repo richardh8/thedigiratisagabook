@@ -1,4 +1,7 @@
+<img src="../../images/foundations.png" width="100" height="100">
+
 # Foundation As A Starting Point
+Foundations Domain
 
 >"Purpose may light the path, but without a foundation, the first storm will wash it away. In digital transformation, speed without structure is a mirage—impressive from a distance, but gone when you get close. Your foundation is the ground you build on, the principles that outlast trends, the architecture that supports both ambition and execution. It is the quiet force that turns urgency into endurance, and action into lasting impact."
 
