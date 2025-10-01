@@ -1,4 +1,4 @@
-# Zero negative impact, but high positive ones
+# Zero Negative Impact, But High Positive Ones
 
 >"The exponential growth of companies can be achieved without generating negative impacts on society, economy, and environment. In this era, it's crucial to create solutions with high positive impacts for society while minimizing negative ones. Today, the focus is on reducing the negative impact to the user in their purchase and use of products, including disposal, recycling, and exchange. It is a time to unite the shared economy with the power of crowdfunding and crowdsourcing to create value for customers while caring for the planet."
 
@@ -7,19 +7,65 @@
 |![](../../images/zero_negative_impact_but_high_positive_ones.png)|
 |Protecting our world and perpetuating technology|
 
->In the movie "Deep Impact", Leo Biederman is a young man who will be a father soon, but he lives the anguish of the imminent risk of everyone on the planet dying due to a large meteor that is heading towards Earth. With the world united to a common purpose, the most diverse innovations were built to protect and fight the meteor. A group of astronauts managed to blow up the meteor, but even then the earth was hit by a much smaller piece, killing thousands of people but saving the vast majority.
+>In the movie *Deep Impact*, the world faces an existential crisis as a massive meteor threatens to wipe out humanity. Amid panic and fear, people from different countries, backgrounds, and disciplines come together around a single purpose: survival. Astronauts, scientists, and political leaders launch bold and collaborative solutions, including a mission to destroy the meteor. While part of the meteor still impacts Earth, their efforts save millions. The story reflects a critical lesson — that even in the face of massive threats, **unified innovation and a higher sense of responsibility can turn devastation into hope**.
 
-We experience, practically every day, products and services offered by companies considered “exponential organizations”. This denomination was given to those whose impact and results are disproportionately large compared to their peers, due to the use of new organizational techniques that leverage technology as a vector for accelerating their growth. Some well-known examples are Google, YouTube, Airbnb, WeChat, Alibaba, Netflix, Amazon, Uber, Apple and Facebook, among many others that are consolidating in increasing numbers.
+What’s remarkable about many of these organizations is not only their ability to grow fast, but to do so without replicating the destructive patterns of traditional business models that often left environmental damage, economic instability, or social harm in their wake.
 
-Thus, we live in a historic moment, in which the possibility of creating new solutions, with great social, environmental, and economic impact, is accessible to many companies, Startups and even new entrepreneurs that are about to emerge. In addition to the vertiginous growth, these organizations also draw attention to the fact that they have become “giants” without necessarily generating negative impacts on society, the economy, and the environment in which they operate.
+⸻
 
-The big question to be understood in this aspect is that, for a long time, to achieve results of the magnitude that these new organizations are achieving, many of the traditional businesses generated negative impacts on their ecosystem. Therefore, it was not by chance that the growing movement demanding sustainability gained strength in the main economic axes. As well as businesses that were monopolized, that generated economic impacts when they collapsed, causing high unemployment, or crashing stock markets.
+**From Profit at Any Cost to Sustainable Scaling**
 
-Although the proposal to minimize negative impacts is not new, something addressed by the Triple Bottom Line, for example, this notion has expanded in the exponential era. It is necessary to think of new ways to, at the same time, generate growth and solutions with a high positive impact for society, on large scales of growth, but also to minimize negative impacts. In this sense, the notion of negative consequences is expanded to dimensions that have not yet been explored, such as the consumer's physical, emotional and cognitive experience, for example. And the company's own employees. In a way, this approach is directly related to the concept of customer value, which proposes that, in order to increase the value perceived by customers, the product must constantly increase the benefits delivered. However, this same concept considers the comparison of the benefits with the costs involved in the acquisition, use, disposal, etc, of this product. Thus, at the present time, we are witnessing greater attention to this second aspect, the reduction of costs, that is, the negative impacts.
+For decades, large-scale success often carried a hidden cost:
+* Monopolies that crushed competition.
+* Environmental degradation that took decades to repair.
+* Economic collapses triggered by over-concentration of resources.
+* Labor practices that eroded human dignity and well-being.
 
-Today we live in a world of abundance of resources, from capital to consumer goods, and we have to know how to unite the shared economy, with the power of crowdfunding, and crowdsourcing, identify the scarcity of certain regions of the planet about services and products, and build a model that knows how to leverage technology, regulations, policies and social platforms, already in the hands of thousands of human beings, to create with them a value that is integrated with the value for their customers, which is value for their own organization.
+This reality is why the global movement for sustainability — from environmental responsibility to social fairness — has gained such force. What’s different in the exponential era is that we now have the tools, technologies, and cultural momentum to scale without destroying. The old equation of “growth = inevitable harm” no longer has to hold true.
 
-The companies' own innovation initiatives have expanded their scope, proposing, in addition to new functionalities and incremental improvements focused on the product, ways to reduce the negative impacts to the user in their purchase and use of these products, including especially the disposal, recycling and exchange of old products for new ones.
+⸻
+
+**Expanding the Notion of Impact**
+
+Minimizing negative impact is not a new idea — frameworks like the Triple Bottom Line (People, Planet, Profit) have advocated it for years. But in today’s context, the concept has expanded:
+* It now encompasses not only environmental and economic consequences but also the physical, emotional, and cognitive experience of the customer.
+* It extends to employee well-being, workplace culture, and the mental energy needed to sustain creativity and innovation.
+
+This perspective aligns with the concept of Customer Value — the balance between the benefits a product or service delivers and the “costs” to the user, which are not only monetary but also include time, effort, environmental impact, and post-use considerations like recycling or disposal.
+
+Today, leading companies are focusing not just on adding benefits but on reducing these costs — effectively removing friction, waste, and harm from the customer journey.
+
+⸻
+
+**Leveraging Abundance to Solve Scarcity**
+
+We live in a paradoxical world: an abundance of resources — capital, technology, human creativity — exists alongside pockets of scarcity in products, services, and opportunities.
+
+Forward-thinking companies are bridging this gap by combining:
+* The shared economy — maximizing asset utilization instead of overproducing.
+* Crowdfunding — mobilizing communities to fund ideas they believe in.
+* Crowdsourcing — tapping collective intelligence to co-create solutions.
+
+The key lies in leveraging technology, regulatory frameworks, and social platforms — already in the hands of billions — to co-create value with communities, integrating that value into customer experiences, and making it inseparable from the organization’s own growth.
+
+⸻
+
+**Innovation with a Positive Footprint**
+
+The scope of innovation is also changing. It is no longer enough to add flashy features or make incremental product improvements. True innovation now asks:
+* How can we reduce the negative footprint of our products and services throughout their lifecycle?
+* How do we design for responsible disposal, recycling, and the exchange of older products for new ones in ways that benefit both customers and the planet?
+* How do we ensure that the emotional and cognitive impact of interacting with our brand leaves people feeling empowered, respected, and valued?
+
+Companies that embed these questions into their design and delivery processes don’t just protect their reputation — they gain a competitive edge in attracting customers, talent, and investment aligned with a sustainable future.
+
+⸻
+
+In essence, the new mandate is clear:
+* Grow exponentially.
+* Minimize harm relentlessly.
+* Maximize positive contribution to society, the environment, and the human experience.
+
+The organizations that master this balance will not only lead markets — they will define the standards by which future businesses are judged.
 
 [<< previous](6-diversity_as_a_platform.md) | [next >>](8-comprehending_abundance_and_scarcity.md)
-
