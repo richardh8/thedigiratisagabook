@@ -1,4 +1,7 @@
+<img src="../../images/people.png" width="100" height="100">
+
 # Culture of Empowerment
+People Domain
 
 > “Empowerment is not granted — it’s awakened. When individuals believe they are the heroes of their own journey, when they harness the collective genius of the crowd, and when they take ownership of results, learning, and decisions, they transform from passive participants into architects of the future.”
 
