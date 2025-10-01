@@ -1,7 +1,7 @@
 <img src="../../images/customer-employee.png" width="100" height="100">
 
 # Glassbox Organizations
-Customer & Employees Domain
+Customer & Employee Domain
 
 >“In the glassbox era, your organization is no longer defined by what you say about yourself, but what you really do, and the world witnesses in real time. Every interaction is a public record, every decision a broadcast, in and out of your organization. Trust is no longer a brand promise, it is your operating system.”
 
