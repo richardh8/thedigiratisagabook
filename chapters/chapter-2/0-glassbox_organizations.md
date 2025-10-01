@@ -1,4 +1,4 @@
-![](../../images/customer-employee.png | width=100)
+![](../../images/customer-employee.png|width=100)
 # Glassbox Organizations
 Customer & Employees Domain
 
