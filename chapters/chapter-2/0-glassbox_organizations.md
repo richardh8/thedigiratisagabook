@@ -1,5 +1,4 @@
 <img src="../../images/customer-employee.png" width="100" height="100">
-
 # Glassbox Organizations
 Customer & Employees Domain
 
