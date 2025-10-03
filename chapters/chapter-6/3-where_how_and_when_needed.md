@@ -1,20 +1,46 @@
-# Where, how and when_needed
+# Where, How and When Needed
 
->"The proliferation of smartphones and embedded technology has enabled people to do almost anything they want, wherever they are, and whenever they want. It is necessary to think about solutions that are available 24/7, without interruptions, and provide precise services to prevent users from abandoning a product or service. It is important to understand the solution in its ubiquitous form and offer communication facilities through social networks and messaging services."
+>“In an always-connected world, value is measured by how seamlessly, instantly, and intelligently your solution meets user needs — wherever they are, whenever they want, and however they choose to connect.”
 
 | Æon Flux |
 | :---: |
 |![](../../images/where_how_and_when_needed.png)|
 |Enabling people to do everything from wherever they are, whenever they want|
 
->In the movie "Æon Flux", Æon is commanded to kill Trevor Goodchild the leader of the subversive movement, but they fall in love. Æon demonstrates throughout the film, complete freedom to come and go from the city of Bregna, access the information she wants, from where, how and when.
+>In the movie *Æon Flux*, the protagonist navigates a dystopian future where freedom of movement, thought, and access is tightly controlled — for most. But Æon is not like most. She moves through digital and physical barriers with ease, accessing intelligence, tools, and spaces exactly *where*, *how*, and *when* she needs them. Her agility, powered by advanced systems and self-determination, flips control back to the user. In today’s digital era, that’s no longer science fiction — it’s expectation. The organizations that will thrive are the ones that empower users with **limitless access, seamless interaction, and total contextual awareness**.
 
-The advent of the Internet at the beginning of the 21st century was considered a major revolution. The idea of ​​being able to access information from computers in our homes and even buy whatever we want while sitting on the sofa in the living room seemed to us a gigantic paradigm shift. However, the Internet alone has allowed us to glimpse only a few changes. The big ruptures came later, years later. And they came in areas we could never have imagined.
+At the turn of the 21st century, the arrival of the Internet into our homes felt like a revolution. The idea of accessing a vast universe of information from a desktop computer, sending emails in seconds, and shopping without leaving the couch seemed almost magical. But in hindsight, that was just the prologue. The Internet alone hinted at possibilities — the real ruptures came later, in ways we couldn’t have predicted.
 
-And then 2007 came a smartphone capable of everything, which led to an innovation that would change everything. At first, it was thought “this is just a prettier, easier-to-use phone”. But this year an overwhelming concept was introduced. The modern Swiss army knife. In the same way, as in the beginning of the Internet, it was thought that it would be just another way to communicate, but over time, the applications of this small device have grown and invaded practically all areas of human knowledge.
+The decisive shift came in 2007, with the launch of the modern smartphone — not just a phone with a better screen, but the birth of what we can now call the ultimate Swiss Army knife of human productivity. Initially, many dismissed it as simply “a prettier, easier-to-use phone.” They couldn’t yet see that this was a platform, not just a device — a pocket-sized hub capable of absorbing, integrating, and replacing dozens of tools into one seamless experience.
 
-We are still evolving in the use of these small pieces of embedded technology. But we can already enjoy facilities unimaginable at the beginning of the century. And the main one is the magical ability of being able to do almost anything we want, whenever we want and, above all, wherever we are. Think about contacting a friend to arrange a drink, and you're done. Think about buying a last-minute gift and asking to have it delivered where you are now, done. Think about learning how to dress one out for a formal, Indian-made event. And think about knowing the temperature in New York for the next 2 days, done. And you can do it all from a downtown restaurant during your lunch break. More than 80% of internet traffic passes through Smartphone nowadays, and it is the solution that democratized and includes populations of developing countries on the Internet.
+From that moment, smartphones and embedded technologies have steadily transformed every facet of human life. We now carry in our pockets the ability to:
+* Communicate instantly with anyone, anywhere, in any medium (text, audio, video).
+* Purchase goods and services, track deliveries in real time, and make payments securely with a tap or face scan.
+* Learn instantly through videos, podcasts, and interactive apps — from tying a tie to advanced physics.
+* Navigate with precision, track health metrics, control home appliances, or manage investments.
+* Work from anywhere, with access to documents, virtual meetings, and entire enterprise systems.
 
-With this movement, it is necessary to think about solutions in terms of their availability 24 hours a day, 7 days a week, without interruptions, with light, precise services and that it is possible to solve practically everything. If it doesn't, there are high chances that your users will abandon your product or service, stop that purchase, or how to proceed with a complaint. We must also understand the solution in its ubiquitous form, so the customer expects, in addition to the Application, that you also have relationship and communication facilities through social networks, messaging services. Remember, it's not just about when and where the user wants to access the service, but how they want to access the service is also something to think about.
+It is no exaggeration to say that over 80% of global internet traffic now flows through smartphones. In many developing countries, smartphones were not just a convenience — they were the first and only gateway to the Internet, enabling financial inclusion, online education, and micro-entrepreneurship.
+
+This ubiquity has created a new baseline expectation: services must be available 24/7, globally, with zero interruptions. But availability alone is not enough. The services must be:
+* Lightweight and fast – optimized for mobile networks that may be unstable or limited in bandwidth.
+* Precise and contextual – delivering the right functionality at the right time with minimal friction.
+* Platform-agnostic – accessible across native apps, mobile web, progressive web apps (PWAs), and even voice-enabled devices.
+* Multi-channel by design – offering users the ability to connect via social networks (Instagram, Facebook, LinkedIn), messaging platforms (WhatsApp, Telegram, WeChat), or voice assistants (Alexa, Siri, Google Assistant).
+
+This is where modern integration technologies — APIs, webhooks, cloud functions — become essential. A single action initiated on a smartphone can now trigger a cascade of automated processes:
+* A purchase can trigger inventory checks, logistics API calls, personalized email or WhatsApp confirmations, and CRM updates in real time.
+* A customer support inquiry via Facebook Messenger can be routed to an AI-powered chatbot for instant resolution, or escalated to a live agent with full context.
+* A location-based request can instantly adapt pricing, delivery times, and available services using geofencing APIs.
+
+Artificial Intelligence takes this further. With machine learning models, systems can anticipate user needs based on previous behavior, preferences, and context — not just react to requests. RAG (Retrieval-Augmented Generation) systems can connect these models to fresh, private, or specialized data to provide highly accurate, personalized responses in milliseconds. Agentic AI systems can even act on behalf of the user, orchestrating multi-step workflows without requiring manual input at every stage.
+
+The guiding principle is ubiquity — the service must be ready wherever, whenever, and however the customer chooses to engage. This means thinking beyond “mobile-first” into context-first design, where the experience dynamically adapts based on:
+* Location – understanding where the user is and tailoring services accordingly.
+* Time – aligning availability and offers to the user’s time zone or activity patterns.
+* Channel – adapting format and interaction style depending on whether the user is on a mobile app, website, messaging app, or voice interface.
+* Device capabilities – using sensors, GPS, cameras, and biometric authentication to simplify the journey.
+
+In today’s competitive environment, if your product fails to meet the “where, how, and when” standard, it risks abandonment — sometimes within seconds. The modern user won’t wait; they will simply tap away to a competitor. The organizations that thrive are those that design experiences as omnipresent, adaptive, and frictionless as the technology in their users’ hands.
 
 [<< previous](2-the_incredible_machine.md) | [next >>](4-with_your_head_over_the_clouds.md)
