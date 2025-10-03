@@ -1,4 +1,4 @@
-<img src="../../images/tech.png" width="100" height="100">
+<img src="../../images/technology.png" width="100" height="100">
 
 # Technology as Levers
 Technology Domain
