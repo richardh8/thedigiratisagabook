@@ -1,34 +1,62 @@
-# What was really your problem?
+# What Was Really Your Problem?
 
->"The use of technologies and business strategies are so closely fused that it is important to discuss them together. Technologies should be part of the problem-solving process and business improvement, and not treated as something separate from the organization. Practices to avoid include treating other functions as customers, assuming professionals from other areas are not familiar with technology, and treating professionals as multitaskers. Instead, technology-related functions should collaborate with the business to find solutions and work together to achieve goals."
+>“In today’s world, technology and business strategy are inseparable — they must be conceived, discussed, and executed together. Technology is not an accessory to strategy; it is a core driver of problem-solving, innovation, and business improvement. To unlock its full potential, organizations must avoid outdated practices such as treating other functions as ‘internal customers,’ assuming non-technical teams lack technological insight, or spreading professionals thin across multiple initiatives. Instead, technology leaders should work side by side with business stakeholders, co-creating solutions, sharing ownership of outcomes, and aligning every technological choice with the organization’s strategic goals.”
 
 | Lost |
 | :---: |
 |![](../../images/what_was_really_your_problem.png)|
 |Technology without strategy? Strategy without technology?|
 
->In the series "Lost", 72 survivors of a plane crash are stranded on an island, they don't know where they are and there is no help in sight.
+>In the series *Lost*, 72 plane crash survivors find themselves stranded on a mysterious island, surrounded by uncertainty, tension, and hidden threats. With no map, no alignment, and no clear plan, each group improvises — often at odds with one another. As the story unfolds, it becomes clear: survival isn't about strength, it's about coordination. The island becomes a metaphor for what happens when strategy and execution are misaligned — when people operate in silos, without shared purpose or direction. In business, like in *Lost*, disconnection leads to chaos. Co-creating strategy and technology as one is the only way out.
 
-In the recent past, when the adoption of technologies was discussed, it always happened in two moments. In the first, the objective was strictly related to the business strategy. They were executives from the business areas, busy improving revenues, reducing costs or risks to their margins. And at this point, technology was not the agenda in the committees. In a second moment, specialists were involved and the objective was always to adopt technologies to help implement the strategy that had already been defined.
+In the not-so-distant past, technology adoption inside organizations often happened in two completely separate acts. The first act took place in the boardroom, where executives from business units — focused entirely on boosting revenue, cutting costs, or reducing risk — would define strategy with almost no mention of technology. The second act came later, when the technology specialists were invited in to “support” that strategy, usually with a narrow brief: “Help us implement what we’ve already decided.”
 
-The end result was always: “technology helps us realize our brilliant strategies”.
+The narrative was clear and consistent: “Technology helps us realize our brilliant strategies.”
 
-With the popularization of technologies and major market disruptions caused by the adoption of technologies, several organizations lost business and even closed because they continued to adopt technology in their businesses in this disconnected way.
+That model worked — until it didn’t. As technology began to evolve faster than corporate planning cycles, and as market-disrupting companies emerged seemingly overnight, the organizations that clung to this old split lost market share, relevance, and in many cases, their very existence. The companies that survived, and thrived, were those that treated technology not as an afterthought, but as an integral part of defining the strategy itself.
 
-Nowadays, no one argues that technology will always be a means to achieve big business goals in today's reality. However, the use of technologies is so closely fused with business, that discussions at two different times will be doomed to failure. Technologies should be discussed as part of the business and as an important part of problem solving, business improvement and even as protagonists of major market disruptions. And who doesn't want to be the protagonist in this market of exponential potential?
+Today, technology and business are inseparable threads of the same fabric. Discussing them at different times, in different rooms, with different decision-makers, is a guaranteed path to mediocrity or failure. The modern expectation is the reverse of the old thinking: “Technology has helped us define brilliant strategies.”
 
-The result sought today is always: “technology has helped us define brilliant strategies”.
+This shift has real implications for how organizations work. Selecting, adopting, and integrating technology should be embedded in the company’s DNA, present in conversations at every level and every function — from product ideation to marketing, from finance to operations. When someone asks, “What was your problem?”, the answer must be built collaboratively, bringing together business leaders, domain experts, technologists, and even customers. In an era where disruption is the norm, technology is often not just the enabler but the protagonist of the transformation.
+Unfortunately, many organizations still hold on to outdated practices that sabotage this integration:
 
-In this way, it is important that the selection and adoption of technologies is in the DNA of organizations, at all levels and domains. And when you ask the question “What was your problem?”, you should answer in a collaborative way, involving all domains of the organization and never forgetting the important role that technologies play in today's world.
+**1. Treating other functions as “internal customers” of IT.**
 
-Here are some practices and approaches to technology that we should avoid.
+Traditional IT structures — with rigid Service Level Agreements (SLAs), chargeback models, and project ticketing systems — create artificial walls inside the company. This model turns business units into “clients” of IT instead of collaborators. The result? Technology becomes reactive, serving only pre-defined requests instead of co-creating disruptive solutions. In today’s fast-paced market, that approach slows innovation to a crawl.
 
-Technology areas should avoid treating the other functions of the company as customers: the creation of closed functions of Information Technology, Service Levels, Contracts, Chargeback Strategies and Technology Projects with internal departments isolates the adoption of technologies and only meets the demands already defined, drastically reducing the organization's ability to lead market disruptions.
+**2. Assuming non-technical professionals are “technologically illiterate.”**
+This is a dangerous and outdated bias. Most professionals in marketing, finance, product, and operations are now heavy users of technology in both their personal and professional lives. Many are deeply familiar with tools, analytics platforms, automation systems, and even coding basics. Treating them as passive consumers of tech wastes their insight. Instead, they should be active contributors to solution design.
 
-Treating professionals from other areas as technological idiots: Framing knowledge and experience in technologies within an IT department assumes that professionals from other areas are unfamiliar with technologies. They are usually heavy users of technology, and they can contribute much more than experts realize.
+**3. Spreading people thin across multiple initiatives.**
+The myth of the “multitasker” dies hard, but the reality is clear: humans are far more productive and creative when focused. Assigning people to multiple unrelated projects at once dilutes attention, slows problem-solving, and results in half-finished work. For technology-led initiatives, the cost of context-switching can be huge — missed deadlines, poorly integrated solutions, and a fragmented user experience.
 
-Treat professionals as multitaskers: We know that human beings are better at handling one activity at a time. Thus, creating focused and willing teams will always be better than sharing people between different activities.
+**4. Limiting IT’s role to “Yes” or “No” answers.**
 
-Say yes or no to demands: Technology-related functions that work in isolation from the business are usually involved in the moment when they can only answer “Yes, I have the capacity to serve you” or “No, I don’t have the capacity or time to serve you” . The correct answer is “This can be done and we can do it together”.
+In isolated IT departments, requests often boil down to resource availability: “Yes, we can take this on” or “No, we don’t have capacity.” That’s the wrong conversation. The right approach is: “This can be done, and here’s how we can make it work together.” Technology functions should be embedded in business discussions from the start, shaping the what and why, not just the how.
+
+**Moving to a Collaborative, Technology-First Culture**
+
+In a mature digital organization, technology teams and business teams work as one. Instead of requirements being “thrown over the wall,” solution design is co-created in real time. For example:
+* A product manager brings customer pain points and desired outcomes.
+* A data scientist contributes predictive insights from behavioral analytics.
+* A systems architect maps the technical landscape and identifies reusable API services.
+* A security lead ensures privacy and compliance from the first discussion.
+
+This kind of cross-functional integration doesn’t just improve the speed of delivery — it increases the likelihood of building the right thing the first time. It allows the team to ask not only “How can we solve this?” but also “Is this the right problem to solve?” and “Can technology help us solve it in a better, faster, or more scalable way than our competitors?”
+
+**Technical Considerations for a Technology-Business Fusion**
+
+To truly fuse technology and business strategy, companies must also pay attention to the infrastructure and process layers:
+* Unified platforms that allow multiple teams to work in the same environment (e.g., shared analytics dashboards, common API gateways).
+* Low-code and no-code tools that enable non-technical teams to prototype solutions without waiting on IT backlogs.
+* Cloud-native architectures that support rapid scaling and deployment across markets.
+* Continuous integration/continuous deployment (CI/CD) pipelines to shorten release cycles and allow rapid experimentation.
+* Data governance frameworks that ensure all decisions are made with clean, trusted data.
+
+These aren’t just IT best practices — they’re strategic enablers. They turn technology from a cost center into a growth engine.
+
+⸻
+
+If you get this right, the old “two-step” process of strategy first, technology later becomes a relic. Instead, strategy and technology emerge together, inseparably, from the same conversations. And when you’re asked, “What was your problem?”, your answer won’t just describe a challenge — it will describe a vision for how technology helped shape the solution, define the opportunity, and create a competitive advantage your rivals will struggle to match.
 
 [<< previous](0-technology_as_levers.md) | [next >>](2-the_incredible_machine.md)
