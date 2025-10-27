@@ -4,7 +4,7 @@
 
 | The Chronicles of Narnia: Prince Caspian |
 | :---: |
-|![](../../images/diversity_as_a_platform.png)|
+|![](../../images/diversity_as_a_platform.pn)|
 |Different perspectives enrich the company's strategy|
 
 >In the movie *The Chronicles of Narnia: Prince Caspian*, the Pevensie siblings return to a Narnia divided and under threat. To save it, they must ally with Prince Caspian and unite the diverse peoples and ancient beings of Narnia — dwarves, fauns, talking animals, and mythic creatures — all with different histories, rivalries, and beliefs. Only through cooperation and mutual respect are they able to stand against the Telmarine invasion. Just like in organizations, embracing diversity is not about tolerating differences — it’s about *thriving because of them*.
