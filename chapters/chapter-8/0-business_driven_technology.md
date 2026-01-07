@@ -1,6 +1,8 @@
-# Business driven technology
+<img src="../../images/business.png" width="100" height="100">
 
-“Technology is no longer a silent enabler working in the background. It has become the language in which business strategies are written, the medium through which value is delivered, and the lens through which customers experience organizations. When business drives technology, and technology drives business back, the two cease to be separate — they fuse into a single engine of transformation.”
+# Business driven technology
+Business Domain
+>“Technology is no longer a silent enabler working in the background. It has become the language in which business strategies are written, the medium through which value is delivered, and the lens through which customers experience organizations. When business drives technology, and technology drives business back, the two cease to be separate — they fuse into a single engine of transformation.”
 
 The digital revolution has shifted the ground beneath our feet. For decades, businesses operated under the assumption that technology was a tool — an infrastructure that enabled efficiency, scaled operations, and reduced costs. It lived in the back office, managed by specialists, and only surfaced when systems failed or upgrades were due. But in today’s economy, this perspective is dangerously outdated. Technology is no longer peripheral. It is central, visible, and inseparable from the very DNA of business.
 
