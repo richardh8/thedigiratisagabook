@@ -18,15 +18,19 @@ The first step is a mindset shift. Problems should not be viewed as witches to b
 Several key practices can drive this cleansing process:
 
 **1. Reduce Silos**
+
 Silos emerge when departments focus narrowly on their own metrics, ignoring the broader mission. They block collaboration, slow decisions, and perpetuate inefficiencies. Breaking silos requires more than restructuring; it demands cultural alignment, shared goals, and technologies that promote transparency — from shared dashboards to collaborative platforms.
 
 **2. Identify and Improve Processes**
+
 Modern organizations must see processes not as rigid workflows but as living systems. Using process mining and automation tools, it is possible to uncover hidden inefficiencies, eliminate unnecessary steps, and redesign for agility. Sometimes, the best improvement is elimination: retiring a process that adds no value.
 
 **3. Reduce Verticalization**
+
 Excessive hierarchy is a ghost of the industrial age. When too much depends on top-down approvals, decision-making slows, innovation suffers, and employees disengage. A shift toward horizontal structures and distributed accountability creates faster, more motivated teams, with ownership of outcomes instead of mere compliance to orders.
 
 **4. Promote Multidisciplinary and Transdisciplinary Action**
+
 Complex problems rarely belong to a single department. Digital transformation thrives when cross-functional squads come together, blending skills and perspectives. Going further, transdisciplinary collaboration — where experts transcend their domains and co-create new approaches — accelerates innovation and nurtures resilience.
 
 Cleaning up the organizational “attic” also reveals treasures. Hidden in legacy systems are datasets, application capabilities, and integrations that, once reorganized, can unlock new insights and efficiencies. A ghost-hunting exercise might uncover forgotten datasets that, when combined with external sources, can fuel AI-driven insights. Or redundant legacy tools that can be replaced with modern SaaS platforms or API-first solutions, reducing costs and complexity.
