@@ -27,4 +27,4 @@ Ultimately, the question organizations must ask themselves is deceptively simple
 
 The modern leader, like the linguist in Arrival, is one who can decipher complexity, bridge divides, and bring order to chaos by connecting the dots that matter most—for the customer, the business, and the ecosystem as a whole.
 
-[<< previous](7-storytelling_not_specifications.md) | [next >>](../chapter-9/0.digital_badges.md)
+[<< previous](7-storytelling_not_specifications.md) | [next >>](../chapter-9/0-digital_badges.md)
