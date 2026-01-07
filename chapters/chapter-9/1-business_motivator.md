@@ -8,3 +8,6 @@ Is the restless engine that constantly asks: “Where can we grow? What value ca
 * Organizational Fit: Often found in strategy, business development, product management, or sales leadership.
 * Background: Commonly with backgrounds in business administration, economics, marketing, or entrepreneurship, though many great Business Motivators come from engineering or even the creative arts, as long as they pair curiosity with commercial drive.
 * Goal: Drive growth and ensure digital initiatives are not tech for tech’s sake, but engines of business impact.
+
+
+[<< previous](0-digital_badges.md) | [next >>](2-quality_balancer.md)
