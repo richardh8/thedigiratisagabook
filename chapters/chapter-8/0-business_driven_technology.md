@@ -1,6 +1,20 @@
 # Business driven technology
 
-TBD
+“Technology is no longer a silent enabler working in the background. It has become the language in which business strategies are written, the medium through which value is delivered, and the lens through which customers experience organizations. When business drives technology, and technology drives business back, the two cease to be separate — they fuse into a single engine of transformation.”
+
+The digital revolution has shifted the ground beneath our feet. For decades, businesses operated under the assumption that technology was a tool — an infrastructure that enabled efficiency, scaled operations, and reduced costs. It lived in the back office, managed by specialists, and only surfaced when systems failed or upgrades were due. But in today’s economy, this perspective is dangerously outdated. Technology is no longer peripheral. It is central, visible, and inseparable from the very DNA of business.
+
+To understand this, we need to recognize that business outcomes — revenue growth, margin control, risk reduction, and customer loyalty — are now directly shaped by technology choices. Cloud-native architectures decide how fast a company can launch new products. Data models define the precision with which risks are calculated and mitigated. Machine Learning pipelines determine how quickly an organization can adapt to new customer behaviors. APIs and ecosystems open doors to markets that would otherwise remain closed. Business is no longer just powered by technology — it is expressed through it.
+
+This fusion has profound implications. P&L is no longer a static reflection of operations, but a dynamic mirror of ecosystem value. When an organization designs partnerships, builds integrations, or curates digital marketplaces, it expands not only its reach but also its economic fabric. In such environments, speed matters more than perfection. The ability to learn quickly, to test hypotheses with minimal risk, and to pivot based on feedback becomes a competitive weapon. Business-driven technology is about creating conditions where innovation is continuous and where failure is not terminal but formative.
+
+Equally important is the cultural shift. Business-driven technology requires organizations to embrace hacking as a mindset — not in the malicious sense of breaking into systems, but in the constructive sense of rewriting rules, experimenting with boundaries, and reprogramming value creation. Disruption does not always come from external startups; it can and must emerge from within, guided by bold individuals who question why things are done the way they are and how they could be done better. Companies that encourage this mindset are the ones that continually reinvent themselves before markets force them to.
+
+The story of business-driven technology is also a story about impossibility made possible. What once seemed unreachable — real-time risk assessment, personalized financial products at scale, AI agents orchestrating complex workflows, blockchain ensuring trust without intermediaries — is rapidly becoming mainstream. These advances are not isolated breakthroughs; they are business strategies born from technology and designed to expand markets, empower people, and create resilience.
+
+As we explore this chapter, we will see how business-driven technology reframes the fundamentals: how P&L emerges from ecosystems, how velocity and learning outpace rigid planning, how organizations can design to make the impossible achievable, and how storytelling — not technical specification alone — becomes the narrative bridge between business ambition and technological execution.
+
+In the end, business-driven technology is not about keeping pace with disruption. It is about becoming the disruptor — a company that sees technology not as an accessory, but as the pulse of its transformation, the rhythm of its strategy, and the foundation of its future.
 
 [<< previous](../chapter-7/8-capital_ventures.md) | [next >>](1-hacking_your_business.md)
 
