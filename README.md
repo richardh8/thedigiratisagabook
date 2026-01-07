@@ -80,7 +80,7 @@ To close this prologue, I want to thank you for reading this far. I look forward
 - [Building from purpose](chapters/chapter-0/5-building_from_purpose.md)
 >"Truth is a prism—its angles revealing different interpretations to different eyes. But your passion for solving a problem that matters to society? That is undeniable. It may evolve, shift in form, and wear different shapes over time, yet it remains the forge from which your intentions are cast. Purpose is your compass. It draws the line between distraction and direction, between the noise of possibility and the clarity of what truly matters. In the age of digital innovation, it is both your anchor and your launchpad."
 
-## <img src="/images/hive_foundations.png" width="50"> [Chapter 1 - Foundation As a Starting Point (Foundation Domain)](chapters/chapter-1/0-foundation_as_a_starting_point.md)
+## <img src="/images/hive_foundations.png" width="100"> [Chapter 1 - Foundation As a Starting Point (Foundation Domain)](chapters/chapter-1/0-foundation_as_a_starting_point.md)
 >"Purpose may light the path, but without a foundation, the first storm will wash it away. In digital transformation, speed without structure is a mirage—impressive from a distance, but gone when you get close. Your foundation is the ground you build on, the principles that outlast trends, the architecture that supports both ambition and execution. It is the quiet force that turns urgency into endurance, and action into lasting impact."
 - [Evolving digital thinking](chapters/chapter-1/1-evolving_digital_thinking.md)
 >"A crisis is not merely a disruption—it is the ultimate mirror, forcing us to confront who we truly are, what we value, and what we are capable of becoming. It is the fire that strips away illusions, the forge that reshapes our purpose, and the battlefield where fear and opportunity stand face-to-face. Those who dare to step forward, rather than freeze, discover that within the chaos lies the blueprint for reinvention, resilience, and the rebirth of greatness.”
@@ -101,7 +101,7 @@ To close this prologue, I want to thank you for reading this far. I look forward
 
 ## <img src="/images/domains_view.png" width="100%">
 
-## <img src="/images/hive_customer-employee.png" width="50"> [Chapter 2 - Glassbox Organizations (Customer & Employee Domain)](chapters/chapter-2/0-glassbox_organizations.md)
+## <img src="/images/hive_customer-employee.png" width="100"> [Chapter 2 - Glassbox Organizations (Customer & Employee Domain)](chapters/chapter-2/0-glassbox_organizations.md)
 - [Trust as a starting point](chapters/chapter-2/1-trust_as_a_starting_point.md)
 > "Never before has the need for trust been so great in order to build culture and organizations that are effectively productive, and set in a position for disruptive innovation in many areas and services they build. And maybe, trust is the true value at the bottom of all for an organization, even more today to take a journey towards digital transformation, which demands transformation of you."
 - [Culture eating strategy](chapters/chapter-2/2-culture_eating_strategy.md)
