@@ -35,4 +35,4 @@ The badges are not decorations to be displayed. They are commitments to continuo
 
 Let’s take a closer look at these roles in Digital Transformation journeys.
 
-[<< previous](../chapter-8/making_everything_versus_connecting_everything.md) | [next >>](1.business_motivator.md)
+[<< previous](../chapter-8/8-making_everything_versus_connecting_everything.md) | [next >>](1-business_motivator.md)
