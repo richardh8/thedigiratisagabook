@@ -9,4 +9,4 @@ Is an educator and engager. They transform complex concepts into compelling mate
 * Background: Usually from communications, journalism, design, education, or multimedia studies. Skilled in storytelling, pedagogy, and digital content platforms.
 * Goal: Build awareness, shape culture, and accelerate adoption of transformation through impactful content that resonates with its audience.
 
-[<< previous](6-collaborative_agent.md) | [next >>](8-crazy_visionaire.md)
+[<< previous](6-collaborative_agent.md) | [next >>](8-crazy_visionary.md)
