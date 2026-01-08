@@ -1,4 +1,4 @@
-<img src="/images/3-value_dreamer.png" width="100"> 
+<img src="/images/value_dreamer.png" width="100"> 
 
 ## Value Dreamer
 
