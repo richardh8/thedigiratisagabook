@@ -3,7 +3,7 @@
 
 ![](/images/the_digirati_saga_cover.jpg)
 
-Copyright © Richard Hechenbichler 2025.
+Copyright © Richard Hechenbichler 2026.
 
 All rights reserved.
 
@@ -231,10 +231,20 @@ To close this prologue, I want to thank you for reading this far. I look forward
 
 ## The Digital Transformation Canvas
 
+Under elaboration.
+
 ## The Digital Transformation Roadmap
+
+Under elaboration.
 
 ## The Digerati Journey Workshop
 
+Under elaboration.
+
 ## Epilogue	
 
+Under elaboration.
+
 ## Further Resources
+
+Under elaboration.
