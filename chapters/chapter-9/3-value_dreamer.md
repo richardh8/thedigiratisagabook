@@ -9,4 +9,4 @@ Is the visionary who elevates the “why.” They are driven by purpose, not jus
 * Background: Many studied philosophy, leadership, business strategy, or social sciences, though some emerge from founders’ grit and lived experience.
 * Goal: Keep transformation grounded in meaning, inspiring loyalty and sustainable innovation.
 
-[<< previous](2-action_challenger.md) | [next >>](4-change_adaptar.md)
+[<< previous](2-action_challenger.md) | [next >>](4-change_adapter.md)
