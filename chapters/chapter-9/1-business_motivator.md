@@ -10,4 +10,4 @@ Is the restless engine that constantly asks: “Where can we grow? What value ca
 * Goal: Drive growth and ensure digital initiatives are not tech for tech’s sake, but engines of business impact.
 
 
-[<< previous](0-digital_badges.md) | [next >>](2-quality_balancer.md)
+[<< previous](0-digital_badges.md) | [next >>](2-action_challenger.md)
