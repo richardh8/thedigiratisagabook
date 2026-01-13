@@ -2,8 +2,16 @@
 
 <img src="/images/the_digital_transformation_canvas.png" width="100%">
 
-Your digital transformation—planned by truly engaged people—on a single page
-At digifly.me, we understand that digital transformation within an organization is not achieved merely by delivering new technologies, but through a series of actions, changes, and values, while effectively involving people—through empowerment and a new approach to engagement. In other words, we believe the challenges span from cultural, organizational, and leadership aspects all the way to the most technical levels of planning, development, and business operations. This is why we’ve implemented our formula for digital transformation.
+Your digital transformation—planned by truly engaged people—on a single page.
+
+Understand that digital transformation within an organization is not achieved merely by delivering new technologies, but through a series of actions, changes, and values, while effectively involving people—through empowerment and a new approach to engagement. In other words, we must comprehend the challenges whish span from cultural, organizational, and leadership aspects all the way to the most technical levels of planning, development, and business operations. This is I implemented our formula for digital transformation.
+
+```
+var digital_transformation = (customers + employees) * (people + values ​​+ user_experience + technology + partners + business);
+
+var success = executeDigitalJourney( digital_transformation );
+```
+
 The Digital Transformation Canvas (DTC) is the catalyst for your team’s potential—guided and planned through the Digirati Journey, and supported by the Digital Hive, which contains a collection of trends, best practices, experiences, challenges, and methods to effectively deliver digital transformation within your organization. It complements most canvases available on the market in terms of planning and delivering the digital transformation journey. Its objective is to bring together leadership, talent, and partners within your organization in an engaging and collaborative way—promoting alignment and delivering concrete and realistic digital skills and capabilities.
 The digital agenda—and its countless jargon-filled subcomponents—such as Social Media, AI, IoT, Cloud, Analytics, Mobile, Cybersecurity, Blockchain, and Machine Learning; current practices like Agile Methods, Lean Management, Product Strategy, and Digital Marketing; as well as players from the ecosystem such as Startups, Fintechs, and eCommerce companies, to name just a few—become overwhelming for any organization to absorb, learn, digest, ideate, and determine how to leverage… and, worse yet, how to deliver.
 With over 25 years of experience in digital fields—across both business and technology—in large, complex, global, and local organizations that have deployed technology solutions since the advent of the internet, we have gathered lessons we deeply value. From many failures to many success stories, this journey has resulted in a significant collection of practices, mindsets, and attitudes of great value—now distilled into a guiding tool we present here: the Digital Hive and the Digirati Journey, which together create a “laboratory environment” for the best collaboration among your talents. We put customers, employees, and partners at the center of these activities—working together collaboratively—so they are recognized, valued, understood, and engaged, rather than being treated as predictable, emotionless resources within a culture, purpose, and processes that restrict them and limit their ability to reach their greatest potential: teamwork.
