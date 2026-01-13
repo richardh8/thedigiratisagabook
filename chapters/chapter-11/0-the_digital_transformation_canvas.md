@@ -43,36 +43,36 @@ Include ideas that do not seem to fit neatly into the domains. Every idea is val
 List all issues, blocks, and concerns that arise during the session—record them only, without trying to discuss or address them during the idea generation process. These constraints will be considered at the end of the session, and proposals to overcome them should be discussed.
 
 
-| <img src="../../images/customer-employee.png" width="100" height="auto"> | Employee & Customers |
-|---|---|
-| | Include the characteristics of employees and customers currently involved in the organization, as well as new characteristics and types of employees and customers who need to join this transformation. |
+<img src="../../images/customer-employee.png" width="60" height="auto"> **Employee & Customers**
+
+Include the characteristics of employees and customers currently involved in the organization, as well as new characteristics and types of employees and customers who need to join this transformation.
 
 
-<img src="../../images/people.png" width="100" height="auto"> **People**
+<img src="../../images/people.png" width="60" height="auto"> **People**
 
 | | Assess the current state of culture, organization, and communication, and establish a vision that defines which people fit into this ambition. Include ideas on how to foster empowerment, collaboration, and productivity, considering different organizational approaches and methodologies. Define how to communicate effectively through internal channels—keeping it simple and to the point—what skills are required, which policies will be implemented to motivate, engage, and recognize people, and the clear objectives these people should focus on. |
 
-<img src="../../images/value.png" width="100" height="auto"> **Value**
+<img src="../../images/value.png" width="60" height="auto"> **Value**
 
 Determine what values will be created for employees and customers that will legitimize their engagement and interest from emotional, ethical, societal, and financial perspectives. Reflect on whether the vision, mission, and strategies are aligned with the proposed values. Also define how these values will be introduced to the teams and to the market—from a human perspective as well as through the various interaction channels employees and customers will use. Add ideas for the organization’s brand and how to meet the expected values to be delivered.
 
 
-<img src="../../images/ux.png" width="100" height="100"> **User Experience**
+<img src="../../images/ux.png" width="60" height="auto"> **User Experience**
 
 Define the approach that will engage customers in a co-creative way through empathy and addressing their main problems. Add ideas on how the organization will adjust its mindset and practices to place customers at the center of everything—communicating, documenting, interacting, producing, supporting, and more. Define how the organization will shift its perspective to design solutions from an experience point of view across all touchpoints, how it will measure interactions, and—most importantly—how customer data will become a core value to guide improvements and changes in the transformation program.
 
 
-<img src="../../images/technology.png" width="100" height="100"> **Technology**
+<img src="../../images/technology.png" width="60" height="auto"> **Technology**
 
 List the technologies, solutions, and platforms that will drive and enable people, values, business, partners, and the end-user experience across all interactions within the other five angles of the canvas. Learn and update your understanding of current market technology trends, as well as practices and methods employees believe work, and how all of this will support a frequent, time-bound continuous delivery model. Build, Execute, Launch, and Repeat your technological capabilities in an automated way.
 
 
-<img src="../../images/partners.png" width="100" height="100"> **Partners**
+<img src="../../images/partners.png" width="60" height="auto"> **Partners**
 
 Assess and list the current partners your organization has, and identify potential partners such as IT providers, startups, investors, hackathons, consultants, and others you believe will help drive innovation and break the status quo, while adding new value, skills, and capabilities to the process and outcomes of the digital transformation initiative. Also consider the execution qualities that partners must have in order to support and sustain the transformation throughout the journey.
 
 
-<img src="../../images/business.png" width="100" height="100"> **Business**
+<img src="../../images/business.png" width="60" height="auto"> **Business**
 
 Add here how the business will be transformed, changed, or improved. Which strategies, programs, and projects will support implementation and post-implementation. Define the steps, sequence, and priority of these changes, as well as the budget for these changes. Include estimates for the change and how this investment will pay off. Define the strategies to be applied to keep operations running and how the change will be carried forward. Also detail how the change will be delivered throughout the transformation cycle.
 
