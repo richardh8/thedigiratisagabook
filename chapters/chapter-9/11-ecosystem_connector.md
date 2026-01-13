@@ -9,5 +9,5 @@ Sees the organization not as a silo but as a node in a larger web of partners, s
 * Background: Strong roots in business strategy, law, economics, or international relations, though many technologists evolve here by learning to connect dots outside IT.
 * Goal: Expand the organization’s reach and capabilities by building win-win relationships that enable transformation at scale.
 
-[<< previous](10-distuptive_marketer.md) | [next >>](12-employee_ambassador.md)
+[<< previous](10-disruptive_marketer.md) | [next >>](12-employee_ambassador.md)
 
