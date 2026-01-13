@@ -52,9 +52,8 @@ List all issues, blocks, and concerns that arise during the session—record the
 |---|---|
 | | Assess the current state of culture, organization, and communication, and establish a vision that defines which people fit into this ambition. Include ideas on how to foster empowerment, collaboration, and productivity, considering different organizational approaches and methodologies. Define how to communicate effectively through internal channels—keeping it simple and to the point—what skills are required, which policies will be implemented to motivate, engage, and recognize people, and the clear objectives these people should focus on. |
 
-| <img src="../../images/value.png" width="20%" height="auto"> | Value |
-|---|---|
-| | Determine what values will be created for employees and customers that will legitimize their engagement and interest from emotional, ethical, societal, and financial perspectives. Reflect on whether the vision, mission, and strategies are aligned with the proposed values. Also define how these values will be introduced to the teams and to the market—from a human perspective as well as through the various interaction channels employees and customers will use. Add ideas for the organization’s brand and how to meet the expected values to be delivered. |
+<img src="../../images/value.png" width="20%" height="auto"> **Value**
+Determine what values will be created for employees and customers that will legitimize their engagement and interest from emotional, ethical, societal, and financial perspectives. Reflect on whether the vision, mission, and strategies are aligned with the proposed values. Also define how these values will be introduced to the teams and to the market—from a human perspective as well as through the various interaction channels employees and customers will use. Add ideas for the organization’s brand and how to meet the expected values to be delivered.
 
 
 | <img src="../../images/ux.png" width="100" height="100"> | User Experience |
