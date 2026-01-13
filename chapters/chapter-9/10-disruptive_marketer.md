@@ -9,5 +9,5 @@ Rewrites the rules of engagement. They are bold strategists who combine deep cus
 * Background: Typically from marketing, consumer behavior, data science, or behavioral economics. They are often hybrid thinkers who merge creative flair with analytical depth.
 * Goal: Help the organization not just compete but lead — creating market shifts instead of reacting to them.
 
-[<< previous](9-culture_influencer.md) | [next >>](11-ecosystem_hubber.md)
+[<< previous](9-culture_influencer.md) | [next >>](11-ecosystem_connector.md)
 
