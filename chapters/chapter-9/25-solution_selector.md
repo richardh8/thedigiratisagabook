@@ -9,4 +9,4 @@ Is the architect of practicality. They thrive in complexity, filtering through a
 *  Background: Commonly trained in computer science, software engineering, systems analysis, or business information systems, often with certifications in IT architecture or cloud technologies.
 * Goal: Make sure every chosen tool or platform contributes to business objectives without wasting time, money, or focus.
 
-[<< previous](0-digital_badges.md) | [next >>](2-action_challenger.md)
+[<< previous](24-risk_ravenous.md) | [next >>](26-story_teller.md)
