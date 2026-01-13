@@ -1,6 +1,6 @@
 ## The Digital Transformation Canvas
 
-<img src="/images/the_dynamic_flow_of_the_digirati_saga_workshop.png" width="100%">
+<img src="/images/the_digital_transformation_canvas.png" width="100%">
 
 Your digital transformation—planned by truly engaged people—on a single page
 At digifly.me, we understand that digital transformation within an organization is not achieved merely by delivering new technologies, but through a series of actions, changes, and values, while effectively involving people—through empowerment and a new approach to engagement. In other words, we believe the challenges span from cultural, organizational, and leadership aspects all the way to the most technical levels of planning, development, and business operations. This is why we’ve implemented our formula for digital transformation.
