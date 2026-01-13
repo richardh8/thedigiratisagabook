@@ -1,4 +1,4 @@
-<img src="/images/distuptive_marketer.png" width="100"> 
+<img src="/images/disruptive_marketer.png" width="100"> 
 
 ## Disruptive Marketer
 
