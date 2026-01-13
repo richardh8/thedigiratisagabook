@@ -99,7 +99,7 @@ To close this prologue, I want to thank you for reading this far. I look forward
 - [Flowing in time and rhythm](chapters/chapter-1/8-flowing_in_time_and_rhythm.md)
 >"Grasp space and time of your organization, space as the physical and structural organizational and processual mechanisms, time as the cycle time and execution velocity, understanding the organizational map, is where you can find hacks, remove hops, and remove blockers for your organization."
 
-## <img src="/images/domains_view.png" width="100%">
+<img src="/images/domains_view.png" width="100%">
 
 ## <img src="/images/hive_customer-employee.png" width="100"> [Chapter 2 - Glassbox Organizations (Customer & Employee Domain)](chapters/chapter-2/0-glassbox_organizations.md)
 - [Trust as a starting point](chapters/chapter-2/1-trust_as_a_starting_point.md)
