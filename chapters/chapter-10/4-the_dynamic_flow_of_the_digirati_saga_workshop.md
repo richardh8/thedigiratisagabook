@@ -65,4 +65,4 @@ The Down Hill and Up Hill rhythm is what makes the Digirati Saga so effective. D
 
 Cycle after cycle, the rhythm becomes second nature. Teams grow more confident in questioning assumptions, more creative in ideation, and more united in decision-making. By the time they reach Chapter 9 (Freedom to Live), they have not only written their transformation story but also equipped themselves to live it—together.
 
-[<< previous](3-why_the_saga_works.md) | [next >>](tbd.md)
+[<< previous](3-why_the_saga_works.md) | [next >>](../chapter-11/0-the_digital_transformation_canvas.md)
