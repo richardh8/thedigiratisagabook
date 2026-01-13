@@ -12,4 +12,4 @@ Where methodologies often leave participants with abstract frameworks or detache
 
 The outcome is both strategic and tactical: participants don’t just dream or ideate—they define, align, and commit to executional roadmaps, turning collective imagination into tangible innovation.
 
-[<< previous](../chapters/chapter-9/33-operational_framework_for_digital_transformation_badges.md) | [next >>](1-creating_writing_and_living_the_story.md)
+[<< previous](../chapter-9/33-operational_framework_for_digital_transformation_badges.md) | [next >>](1-creating_writing_and_living_the_story.md)
