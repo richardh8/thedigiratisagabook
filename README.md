@@ -1,7 +1,7 @@
 # The Digirati Saga
 ## The Digital Transformation Story Through Inner Wars
 
-![](/images/the_digirati_saga_cover.pdg)
+![](/images/the_digirati_saga_cover.png)
 
 Copyright © Richard Hechenbichler 2026.
 
