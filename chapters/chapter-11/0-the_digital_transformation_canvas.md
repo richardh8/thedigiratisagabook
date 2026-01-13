@@ -7,7 +7,15 @@ Your digital transformation—planned by truly engaged people—on a single page
 Understand that digital transformation within an organization is not achieved merely by delivering new technologies, but through a series of actions, changes, and values, while effectively involving people—through empowerment and a new approach to engagement. In other words, we must comprehend the challenges whish span from cultural, organizational, and leadership aspects all the way to the most technical levels of planning, development, and business operations. This is I implemented our formula for digital transformation.
 
 ```
-var digital_transformation = (customers + employees) * (people + values ​​+ user_experience + technology + partners + business);
+var digital_transformation = (customers + employees) *
+    (
+        people +
+        values ​​+
+        user_experience +
+        technology +
+        partners +
+        business
+    );
 
 var success = executeDigiratiSagaJourney(digital_transformation);
 ```
