@@ -45,8 +45,7 @@ List all issues, blocks, and concerns that arise during the session—record the
 
 | <img src="../../images/customer-employee.png" width="100" height="100"> | Employee & Customers |
 |---|---|
-
-Include the characteristics of employees and customers currently involved in the organization, as well as new characteristics and types of employees and customers who need to join this transformation.
+| Include the characteristics of employees and customers currently involved in the organization, as well as new characteristics and types of employees and customers who need to join this transformation. |
 
 
 <img src="../../images/people.png" width="100" height="100">
