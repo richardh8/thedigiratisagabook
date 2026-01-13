@@ -1,4 +1,4 @@
-<img src="/images/task_organizer" width="100"> 
+<img src="/images/task_organizer.png" width="100"> 
 
 ## Task Organizer
 
