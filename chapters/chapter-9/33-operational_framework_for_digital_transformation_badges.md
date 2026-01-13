@@ -39,4 +39,4 @@ Together, this constellation of badges creates not just a product, but a success
 
 In essence, operationalizing the Digital Transformation Badges means treating human traits with the same discipline we apply to technologies. We govern them, map them, measure them, develop them, and deploy them consciously. When companies do this, they transform badges from metaphors into engines of change, ensuring that their digital transformation journey is not just a collection of tools and systems, but a living ecosystem of people driving continuous reinvention.
 
-[<< previous](32-trusted_executor.md) | [next >>](33-operational_framework_for_digital_transformation_badges.md)
+[<< previous](32-trusted_executor.md) | [next >>](chapters/chapter-10/0-the_digirati_saga.md)
