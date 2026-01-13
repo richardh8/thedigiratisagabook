@@ -1,5 +1,7 @@
 ## Creating, Writing, and Living the Story
 
+<img src="/images/creating_a_story.png" width="100%">
+
 Every transformation journey is, at its heart, a story. It has characters, contexts, challenges, struggles, and achievements. The Digirati Saga methodology embraces this truth, guiding organizations to create, write, and live their digital transformation story. The model unfolds across five stages—Discovery, Prologue, Act 1, Act 2, and Epilogue—each one not only shaping the narrative but also producing tangible outputs that connect back to the fundamental principles explored in the earlier chapters of this book.
 
 ### Discovery – Unveiling the Challenge
