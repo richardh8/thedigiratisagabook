@@ -43,16 +43,16 @@ Include ideas that do not seem to fit neatly into the domains. Every idea is val
 List all issues, blocks, and concerns that arise during the session—record them only, without trying to discuss or address them during the idea generation process. These constraints will be considered at the end of the session, and proposals to overcome them should be discussed.
 
 
-| <img src="../../images/customer-employee.png" width="20%" height="20%"> | Employee & Customers |
+| <img src="../../images/customer-employee.png" width="100" height="auto"> | Employee & Customers |
 |---|---|
 | | Include the characteristics of employees and customers currently involved in the organization, as well as new characteristics and types of employees and customers who need to join this transformation. |
 
 
-| <img src="../../images/people.png" width="20%" height="20%"> | People |
+| <img src="../../images/people.png" width="100" height="auto"> | People |
 |---|---|
 | | Assess the current state of culture, organization, and communication, and establish a vision that defines which people fit into this ambition. Include ideas on how to foster empowerment, collaboration, and productivity, considering different organizational approaches and methodologies. Define how to communicate effectively through internal channels—keeping it simple and to the point—what skills are required, which policies will be implemented to motivate, engage, and recognize people, and the clear objectives these people should focus on. |
 
-| <img src="../../images/value.png" width="100" height="100"> | Value |
+| <img src="../../images/value.png" width="20%" height="auto"> | Value |
 |---|---|
 | | Determine what values will be created for employees and customers that will legitimize their engagement and interest from emotional, ethical, societal, and financial perspectives. Reflect on whether the vision, mission, and strategies are aligned with the proposed values. Also define how these values will be introduced to the teams and to the market—from a human perspective as well as through the various interaction channels employees and customers will use. Add ideas for the organization’s brand and how to meet the expected values to be delivered. |
 
