@@ -2,7 +2,7 @@
 
 Recognizing the Digital Transformation Badges is only the first step. The true challenge — and opportunity — lies in operationalizing them so that they actively shape the way organizations design, execute, and evolve their transformation journey. For that, companies need a framework that ensures badges are not abstract labels but embedded practices that guide decision-making, talent development, and cultural growth.
 
-## Governance and Oversight: Turning Recognition into Direction
+### Governance and Oversight: Turning Recognition into Direction
 The starting point is establishing a Digital Transformation Committee or Council of Transformation Badges. This is not a bureaucratic body but a guiding coalition of executives, managers, and badge carriers themselves. Its role is to keep transformation efforts aligned with strategy and to ensure balance between technology adoption and human enablement.
 For example, the committee may include a Risk Ravenous leader to highlight cybersecurity threats, an Ecosystem Connector to evaluate partnership opportunities, and a Culture Influencer to ensure that new initiatives resonate with employees. This diversity of badges around the same table creates richer perspectives than a traditional steering committee focused only on budgets and deadlines.
 
