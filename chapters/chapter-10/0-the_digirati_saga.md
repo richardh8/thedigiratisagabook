@@ -1,4 +1,6 @@
-## Once Upon a Time…
+## The Digirati Saga
+
+Once Upon a Time…
 
 You may think you’ve seen it all, but you haven’t yet experienced the legendary story of The Digirati Saga. To truly pursue digital transformation, one must live it—intensely, collaboratively, and with courage. The Saga is not a workshop, not a hackathon, and not another corporate offsite. It is an immersive transformation journey that brings people together across disciplines, functions, and levels of the organization in a momentum designed for radical change.
 
@@ -10,4 +12,4 @@ Where methodologies often leave participants with abstract frameworks or detache
 
 The outcome is both strategic and tactical: participants don’t just dream or ideate—they define, align, and commit to executional roadmaps, turning collective imagination into tangible innovation.
 
-[<< previous](chapters/chapter-9/33-operational_framework_for_digital_transformation_badges.md) | [next >>](1-creating_writing_and_living_the_story.md)
+[<< previous](../chapters/chapter-9/33-operational_framework_for_digital_transformation_badges.md) | [next >>](1-creating_writing_and_living_the_story.md)
