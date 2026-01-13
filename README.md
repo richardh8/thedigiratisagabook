@@ -1,4 +1,4 @@
-# The Digerati Saga
+# The Digirati Saga
 ## The Digital Transformation Story Through Inner Wars
 
 ![](/images/the_digirati_saga_cover.jpg)
