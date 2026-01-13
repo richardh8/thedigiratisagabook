@@ -9,5 +9,5 @@ Sees the world through the eyes of the user. They understand that in digital tra
 * Background: Often studied design, psychology, human-computer interaction, or anthropology. Many also practice design research and prototyping.
 * Goal: Transform interactions into memorable experiences that foster loyalty, satisfaction, and emotional connection.
 
-[<< previous](12-employee_ambassador.md) | [next >>](14-geek_soldier.md)
+[<< previous](12-employee_ambassador.md) | [next >>](14-nerd_soldier.md)
 
