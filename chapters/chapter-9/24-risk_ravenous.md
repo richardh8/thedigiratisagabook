@@ -8,4 +8,4 @@ Individuals are fearless in facing uncertainty. They know risk cannot be elimina
 * Background: Come from law, economics, cybersecurity, actuarial sciences, or audit backgrounds.
 * Goal: Help the organization move boldly while staying safe, ensuring growth and innovation are not derailed by blind spots.
 
-[<< previous](23-rapid_descion_maker.md) | [next >>](25-solution_selector.md)
+[<< previous](23-rapid_decision_maker.md) | [next >>](25-solution_selector.md)
