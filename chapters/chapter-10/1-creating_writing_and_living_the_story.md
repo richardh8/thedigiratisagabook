@@ -21,7 +21,8 @@ This act embodies Chapter 5 (Supernatural Enablers) and Chapter 7 (Overcoming Li
 Stories build toward tension, and Act 2 is where decisions must be made. This stage is about reviewing and editing what was created, refining ideas, and prioritizing what truly matters. The group shifts from divergent to convergent thinking, moving from broad creativity to focused strategy.
 
 The participants decide, knowing that every decision carries risks but also opportunities. This is where the lessons from Chapter 8 (Velocity and Learning) come to life: the importance of experimentation, of failing fast, and of learning faster. Here, transformation becomes visible—what started as dreams and playful prototypes begins to solidify into actionable roadmaps. The story is no longer only imagined; it is becoming real.
-## Epilogue – Producing, Publishing, Promoting
+
+### Epilogue – Producing, Publishing, Promoting
 Every story deserves to be shared. The epilogue of the Digirati Saga is where the outcomes are crystallized: producing the transformation canvas, roadmaps, and commitments; publishing them across the organization to ensure clarity and transparency; and promoting them to sustain energy and accountability.
 
 This is the “Freedom to Live” moment of Chapter 9: the organization has crossed thresholds, embraced enablers, aligned ecosystems, and committed to purpose. The story is not closed—it continues to be lived—but the epilogue provides a tangible conclusion for this cycle, a book authored collectively by the organization, for itself and its stakeholders.
