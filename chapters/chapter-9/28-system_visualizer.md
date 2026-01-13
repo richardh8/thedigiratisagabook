@@ -9,4 +9,4 @@ Is the architect of complexity. They see the whole picture — the connections b
 * Background: Typically studied systems engineering, information systems, architecture, or operations research. Many are also trained in business architecture and organizational design frameworks.
 * Goal: Provide clarity in complexity — ensuring decisions are aligned, trade-offs are visible, and transformations are executed with coherence and minimal consequences.
 
-[<< previous](27-subject_curious.md) | [next >>](30-task_organizer.md)
+[<< previous](27-subject_curious.md) | [next >>](29-talent_cultivator.md)
