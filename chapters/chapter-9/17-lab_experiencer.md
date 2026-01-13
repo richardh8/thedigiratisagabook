@@ -8,4 +8,4 @@ Is the innovation incubator. They believe ideas must be tested, evolved, and val
 * Background: Often trained in innovation management, entrepreneurship, design thinking, or finance. Many come from product management or corporate venturing backgrounds.
 * Goal: Build a systematic way for the organization to test ideas, generate learning, and scale what works.
 
-[<< previous](16-innovation_chaser.md) | [next >>](2-lead_communicator.md)
+[<< previous](16-innovation_hunter.md) | [next >>](2-lead_communicator.md)
