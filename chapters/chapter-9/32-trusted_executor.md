@@ -9,4 +9,4 @@ Is the doer who delivers. Experienced and reliable, they ensure scope, time, and
 * Background: Usually studied business, engineering, project management, or IT delivery, with strong experience in execution methodologies like Agile, Lean, or Six Sigma.
 * Goal: Guarantee that plans move from paper to reality with quality and predictability — building trust across the organization.
 
-[<< previous](31-time_keeper.md) | [next >>](tbd.md)
+[<< previous](31-time_keeper.md) | [next >>](33-operational_framework_for_digital_transformation_badges.md)
